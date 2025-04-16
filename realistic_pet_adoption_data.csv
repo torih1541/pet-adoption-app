@@ -1,0 +1,1001 @@
+Breed,AgeInMonths,Size,Sterilized,Health,Temperament,GoodWithChildren,GoodWithOtherPets,PhotoCount,DescriptionLength,AdoptionSpeed
+Poodle,103,Tiny,No,Healthy,"Calm, Independent, Playful",Yes,No,3,368,2
+Poodle,15,XL,No,Healthy,"Shy, Affectionate, Anxious",Yes,Yes,2,91,2
+Bulldog,61,XL,No,Healthy,"Friendly, Anxious, Playful",Yes,Yes,4,122,3
+Golden Retriever,83,Medium,No,Healthy,"Independent, Playful, Anxious",Yes,Yes,2,478,3
+Beagle,88,XL,No,Minor Injury,"Affectionate, Friendly, Playful",No,Yes,4,119,2
+Husky,104,Medium,No,Healthy,"Shy, Playful, Independent",Yes,Yes,2,169,1
+Poodle,53,Small,Yes,Healthy,"Affectionate, Independent, Calm",Yes,Yes,1,363,3
+Mixed,108,Tiny,Yes,Healthy,"Aggressive, Shy, Affectionate",Yes,No,5,313,1
+Husky,2,Small,No,Minor Injury,"Playful, Shy, Affectionate",No,Yes,3,296,3
+Poodle,33,Small,No,Healthy,"Affectionate, Aggressive, Independent",Yes,Yes,3,333,3
+Bulldog,22,XL,No,Minor Injury,"Anxious, Friendly, Aggressive",Yes,No,4,255,1
+German Shepherd,89,XL,No,Healthy,"Playful, Anxious, Affectionate",Yes,Yes,0,494,3
+Golden Retriever,59,XL,Yes,Healthy,"Affectionate, Friendly, Calm",No,No,1,495,2
+Labrador,60,Tiny,No,Minor Injury,"Independent, Playful, Calm",Yes,Yes,5,465,4
+Mixed,47,XL,Yes,Healthy,"Shy, Anxious, Independent",Yes,Yes,5,70,3
+Bulldog,108,Small,No,Minor Injury,"Playful, Friendly, Calm",Yes,Yes,3,339,3
+Beagle,3,Medium,Yes,Healthy,"Shy, Playful, Independent",Yes,Yes,4,326,4
+Husky,7,Small,Yes,Healthy,"Calm, Affectionate, Friendly",No,Yes,4,348,4
+Bulldog,39,XL,Yes,Minor Injury,"Anxious, Independent, Affectionate",Yes,No,1,407,2
+Australian Shepherd,89,Tiny,Yes,Healthy,"Independent, Playful, Friendly",Yes,Yes,3,33,3
+Labrador,114,Tiny,Yes,Healthy,"Playful, Anxious, Calm",Yes,Yes,1,284,1
+Australian Shepherd,90,Small,Yes,Minor Injury,"Affectionate, Shy, Aggressive",No,Yes,4,405,2
+Poodle,84,Large,No,Healthy,"Affectionate, Anxious, Independent",Yes,Yes,3,386,4
+Poodle,60,Tiny,No,Minor Injury,"Shy, Affectionate, Anxious",Yes,Yes,3,283,3
+Golden Retriever,47,Small,No,Healthy,"Shy, Aggressive, Friendly",Yes,Yes,2,225,1
+Husky,81,Tiny,Yes,Serious Injury,"Aggressive, Shy, Affectionate",Yes,Yes,3,69,0
+Golden Retriever,104,Tiny,Yes,Healthy,"Anxious, Calm, Aggressive",Yes,Yes,3,21,1
+Husky,6,Large,Yes,Healthy,"Aggressive, Playful, Friendly",Yes,Yes,5,125,3
+Beagle,4,Tiny,Yes,Healthy,"Calm, Playful, Friendly",Yes,Yes,5,496,4
+Poodle,63,Small,No,Healthy,"Aggressive, Friendly, Anxious",Yes,Yes,1,237,1
+Husky,44,Medium,No,Healthy,"Independent, Shy, Calm",Yes,Yes,1,221,2
+Mixed,62,Large,No,Serious Injury,"Shy, Playful, Aggressive",Yes,Yes,3,289,0
+Poodle,95,Tiny,Yes,Healthy,"Calm, Affectionate, Playful",No,Yes,5,234,2
+German Shepherd,62,Large,No,Healthy,"Playful, Independent, Friendly",Yes,Yes,4,227,3
+German Shepherd,109,Medium,Yes,Minor Injury,"Calm, Affectionate, Anxious",Yes,Yes,1,386,2
+Bulldog,53,Medium,No,Healthy,"Playful, Affectionate, Independent",Yes,Yes,1,236,2
+Labrador,60,Medium,Yes,Healthy,"Friendly, Shy, Independent",Yes,Yes,3,60,3
+Husky,29,Tiny,Yes,Healthy,"Calm, Friendly, Playful",No,Yes,4,84,2
+German Shepherd,89,Large,Yes,Healthy,"Independent, Anxious, Playful",No,Yes,0,363,2
+Bulldog,1,Tiny,No,Minor Injury,"Anxious, Friendly, Independent",Yes,No,3,155,3
+German Shepherd,88,Small,No,Healthy,"Independent, Anxious, Aggressive",No,No,2,100,0
+Bulldog,8,Medium,Yes,Minor Injury,"Shy, Aggressive, Playful",No,Yes,2,438,2
+Australian Shepherd,33,Medium,No,Minor Injury,"Aggressive, Shy, Playful",Yes,Yes,2,280,1
+Mixed,106,Tiny,No,Healthy,"Anxious, Independent, Friendly",Yes,Yes,1,60,1
+Mixed,28,Small,No,Healthy,"Anxious, Calm, Independent",Yes,Yes,0,347,3
+Husky,12,Tiny,No,Minor Injury,"Aggressive, Calm, Playful",Yes,Yes,1,52,1
+Husky,48,Small,No,Healthy,"Independent, Friendly, Calm",Yes,Yes,5,235,3
+Mixed,37,XL,No,Healthy,"Independent, Aggressive, Affectionate",Yes,Yes,2,191,1
+Golden Retriever,104,Large,Yes,Healthy,"Friendly, Aggressive, Affectionate",No,Yes,5,494,1
+Bulldog,35,Large,No,Healthy,"Affectionate, Independent, Shy",Yes,No,0,246,1
+German Shepherd,101,Tiny,No,Healthy,"Independent, Playful, Shy",Yes,Yes,5,150,2
+Bulldog,1,Small,Yes,Healthy,"Affectionate, Friendly, Playful",Yes,No,4,237,3
+Bulldog,119,Large,No,Healthy,"Calm, Independent, Anxious",Yes,No,5,378,2
+Poodle,27,Large,Yes,Healthy,"Affectionate, Playful, Friendly",Yes,No,0,226,1
+Australian Shepherd,15,Small,No,Healthy,"Independent, Anxious, Aggressive",Yes,Yes,1,61,1
+Husky,77,Large,No,Minor Injury,"Affectionate, Aggressive, Calm",Yes,No,2,82,0
+Mixed,96,XL,No,Healthy,"Friendly, Aggressive, Playful",Yes,Yes,0,71,1
+Beagle,96,Medium,Yes,Healthy,"Aggressive, Affectionate, Independent",Yes,Yes,3,241,2
+Golden Retriever,101,Large,No,Healthy,"Anxious, Playful, Shy",No,Yes,4,162,1
+Labrador,43,XL,No,Healthy,"Independent, Calm, Aggressive",No,No,4,55,1
+Golden Retriever,13,XL,Yes,Healthy,"Friendly, Aggressive, Anxious",Yes,Yes,2,262,1
+Golden Retriever,86,Small,No,Serious Injury,"Playful, Aggressive, Friendly",Yes,Yes,3,85,0
+Golden Retriever,42,Small,No,Healthy,"Friendly, Aggressive, Calm",Yes,Yes,4,81,2
+Golden Retriever,57,Medium,No,Healthy,"Shy, Aggressive, Playful",Yes,Yes,4,153,2
+Beagle,28,Small,Yes,Minor Injury,"Playful, Anxious, Affectionate",No,Yes,3,127,2
+Labrador,44,XL,Yes,Healthy,"Affectionate, Independent, Playful",Yes,Yes,3,305,4
+Mixed,62,Medium,Yes,Healthy,"Shy, Anxious, Affectionate",No,Yes,2,147,1
+Labrador,119,Medium,No,Healthy,"Aggressive, Playful, Friendly",Yes,Yes,3,492,2
+Poodle,103,Medium,Yes,Minor Injury,"Playful, Calm, Friendly",Yes,Yes,5,244,2
+Husky,1,Medium,Yes,Minor Injury,"Affectionate, Playful, Aggressive",No,Yes,0,302,2
+Australian Shepherd,62,Small,No,Healthy,"Friendly, Affectionate, Anxious",Yes,Yes,0,135,2
+Mixed,77,Medium,Yes,Minor Injury,"Shy, Calm, Aggressive",Yes,Yes,0,278,1
+Golden Retriever,103,Medium,Yes,Healthy,"Independent, Shy, Aggressive",Yes,No,5,475,1
+Beagle,27,Medium,No,Healthy,"Aggressive, Playful, Shy",Yes,Yes,0,337,2
+Bulldog,37,Large,No,Healthy,"Playful, Affectionate, Calm",Yes,Yes,0,326,3
+Mixed,106,XL,No,Healthy,"Independent, Aggressive, Affectionate",Yes,Yes,3,171,1
+Australian Shepherd,79,Medium,No,Healthy,"Shy, Independent, Affectionate",Yes,Yes,2,393,3
+German Shepherd,32,Small,Yes,Minor Injury,"Friendly, Independent, Affectionate",No,Yes,0,199,1
+Mixed,113,Tiny,Yes,Healthy,"Independent, Shy, Calm",Yes,Yes,5,461,3
+Mixed,52,Tiny,Yes,Healthy,"Calm, Independent, Aggressive",Yes,Yes,3,314,3
+Mixed,2,Large,No,Healthy,"Calm, Playful, Affectionate",No,Yes,2,132,2
+Poodle,101,Large,No,Healthy,"Playful, Shy, Anxious",No,No,0,459,1
+Poodle,81,Small,Yes,Healthy,"Anxious, Friendly, Affectionate",Yes,Yes,2,132,2
+Husky,2,Large,No,Serious Injury,"Friendly, Anxious, Affectionate",No,Yes,1,239,0
+Labrador,54,XL,Yes,Serious Injury,"Aggressive, Independent, Shy",Yes,Yes,4,243,0
+Bulldog,97,Small,Yes,Healthy,"Anxious, Aggressive, Independent",Yes,Yes,0,422,1
+Bulldog,2,Medium,No,Minor Injury,"Affectionate, Playful, Independent",Yes,Yes,4,191,4
+Bulldog,90,Large,Yes,Healthy,"Calm, Affectionate, Shy",Yes,Yes,5,435,4
+Mixed,119,XL,No,Healthy,"Affectionate, Independent, Calm",Yes,No,3,458,2
+Husky,75,XL,No,Healthy,"Playful, Aggressive, Independent",Yes,Yes,2,420,2
+Poodle,38,Small,Yes,Serious Injury,"Friendly, Affectionate, Playful",Yes,Yes,4,391,2
+Husky,98,Large,No,Healthy,"Anxious, Independent, Aggressive",No,Yes,5,489,1
+Golden Retriever,11,Medium,No,Healthy,"Calm, Affectionate, Aggressive",Yes,Yes,0,220,2
+Golden Retriever,59,XL,Yes,Healthy,"Independent, Calm, Anxious",Yes,No,5,483,3
+Husky,93,Tiny,No,Healthy,"Aggressive, Friendly, Calm",Yes,Yes,2,167,1
+Australian Shepherd,59,Tiny,Yes,Healthy,"Calm, Affectionate, Aggressive",No,Yes,3,422,2
+Labrador,90,XL,Yes,Minor Injury,"Friendly, Affectionate, Playful",Yes,Yes,2,166,2
+Poodle,20,Large,Yes,Healthy,"Calm, Aggressive, Independent",Yes,Yes,3,436,3
+Golden Retriever,40,Large,No,Healthy,"Calm, Aggressive, Shy",No,Yes,1,379,1
+German Shepherd,1,Tiny,No,Minor Injury,"Anxious, Calm, Friendly",Yes,Yes,2,495,4
+Mixed,57,XL,No,Minor Injury,"Affectionate, Friendly, Aggressive",Yes,Yes,0,453,2
+Husky,23,Large,No,Serious Injury,"Aggressive, Independent, Shy",Yes,Yes,5,317,1
+Golden Retriever,99,Tiny,No,Minor Injury,"Anxious, Aggressive, Independent",Yes,Yes,3,163,1
+German Shepherd,90,Large,Yes,Healthy,"Independent, Anxious, Playful",No,Yes,0,79,1
+Husky,113,Large,Yes,Minor Injury,"Anxious, Affectionate, Independent",No,Yes,1,404,1
+Mixed,48,Medium,No,Healthy,"Independent, Anxious, Affectionate",No,Yes,5,159,2
+Beagle,69,Large,Yes,Healthy,"Aggressive, Independent, Anxious",No,No,4,179,1
+Poodle,119,Large,Yes,Minor Injury,"Shy, Aggressive, Affectionate",Yes,No,0,252,0
+Labrador,99,Medium,Yes,Healthy,"Independent, Aggressive, Shy",Yes,Yes,2,323,1
+German Shepherd,80,Small,Yes,Healthy,"Anxious, Friendly, Independent",Yes,No,2,423,2
+German Shepherd,24,Small,No,Healthy,"Affectionate, Calm, Independent",Yes,No,5,139,2
+Mixed,33,XL,Yes,Healthy,"Independent, Friendly, Calm",Yes,Yes,3,94,3
+Mixed,113,Large,No,Healthy,"Anxious, Affectionate, Aggressive",Yes,Yes,3,441,2
+Beagle,104,XL,No,Serious Injury,"Friendly, Playful, Independent",Yes,Yes,3,273,0
+Labrador,99,XL,No,Minor Injury,"Friendly, Anxious, Shy",Yes,Yes,5,492,3
+Bulldog,99,XL,No,Healthy,"Calm, Independent, Playful",No,Yes,0,368,1
+Mixed,18,Large,Yes,Healthy,"Calm, Playful, Affectionate",Yes,Yes,5,357,4
+Bulldog,66,Small,No,Healthy,"Friendly, Anxious, Shy",Yes,No,5,182,2
+Australian Shepherd,80,Medium,No,Minor Injury,"Affectionate, Playful, Shy",Yes,Yes,4,188,3
+Golden Retriever,100,XL,No,Healthy,"Anxious, Playful, Calm",Yes,Yes,0,87,1
+Mixed,33,XL,No,Minor Injury,"Independent, Playful, Affectionate",Yes,Yes,5,296,3
+Husky,48,Medium,Yes,Healthy,"Affectionate, Independent, Calm",Yes,Yes,3,403,4
+Labrador,8,Tiny,No,Serious Injury,"Shy, Playful, Affectionate",No,Yes,2,420,1
+Australian Shepherd,33,Medium,No,Healthy,"Calm, Aggressive, Independent",Yes,Yes,3,462,3
+Golden Retriever,115,Medium,Yes,Healthy,"Aggressive, Affectionate, Anxious",No,No,5,394,1
+Poodle,22,Medium,No,Healthy,"Friendly, Shy, Playful",No,No,5,177,2
+Poodle,38,Small,Yes,Healthy,"Independent, Shy, Anxious",Yes,Yes,5,384,4
+Husky,51,Small,Yes,Minor Injury,"Aggressive, Calm, Shy",Yes,Yes,5,283,2
+Mixed,27,Small,Yes,Healthy,"Calm, Playful, Independent",No,Yes,2,245,1
+Beagle,21,Small,No,Healthy,"Friendly, Playful, Shy",Yes,Yes,5,116,3
+Poodle,28,Large,No,Minor Injury,"Shy, Aggressive, Friendly",Yes,Yes,0,472,2
+Husky,61,Medium,No,Healthy,"Playful, Affectionate, Aggressive",No,Yes,2,23,0
+Poodle,35,Large,No,Healthy,"Shy, Calm, Friendly",Yes,Yes,0,36,2
+Husky,44,Medium,No,Serious Injury,"Friendly, Aggressive, Affectionate",Yes,Yes,3,177,0
+Poodle,93,XL,Yes,Healthy,"Aggressive, Affectionate, Calm",No,Yes,5,392,2
+Poodle,6,Medium,No,Healthy,"Friendly, Calm, Shy",Yes,Yes,2,399,4
+Poodle,105,Tiny,Yes,Healthy,"Independent, Anxious, Shy",Yes,Yes,4,299,2
+Husky,93,XL,No,Healthy,"Anxious, Calm, Independent",No,Yes,0,321,2
+Labrador,53,Medium,No,Healthy,"Aggressive, Shy, Independent",Yes,No,2,207,0
+Beagle,97,XL,No,Healthy,"Friendly, Affectionate, Shy",No,No,3,210,1
+Husky,85,Tiny,No,Healthy,"Friendly, Independent, Calm",No,Yes,0,275,1
+German Shepherd,67,Small,No,Healthy,"Playful, Affectionate, Independent",Yes,Yes,1,300,2
+Australian Shepherd,106,Medium,Yes,Healthy,"Independent, Anxious, Friendly",Yes,No,5,77,1
+German Shepherd,67,Small,Yes,Healthy,"Friendly, Aggressive, Independent",Yes,Yes,5,299,2
+Golden Retriever,114,Medium,Yes,Minor Injury,"Shy, Calm, Aggressive",Yes,Yes,5,170,1
+Australian Shepherd,66,XL,No,Healthy,"Anxious, Friendly, Playful",Yes,Yes,2,405,3
+Bulldog,90,Small,No,Healthy,"Shy, Playful, Aggressive",Yes,Yes,0,123,1
+Golden Retriever,33,XL,Yes,Healthy,"Independent, Playful, Aggressive",No,Yes,0,318,1
+Labrador,118,Large,Yes,Minor Injury,"Anxious, Friendly, Aggressive",Yes,Yes,4,189,1
+Poodle,119,Large,Yes,Serious Injury,"Calm, Anxious, Friendly",Yes,Yes,1,374,0
+Beagle,50,Tiny,No,Minor Injury,"Aggressive, Affectionate, Friendly",Yes,Yes,0,427,2
+Mixed,13,Medium,Yes,Healthy,"Calm, Playful, Friendly",Yes,Yes,3,410,4
+Bulldog,57,Medium,No,Minor Injury,"Calm, Shy, Playful",Yes,Yes,3,192,3
+German Shepherd,20,Tiny,Yes,Serious Injury,"Affectionate, Aggressive, Friendly",Yes,Yes,0,283,0
+Beagle,110,Medium,Yes,Healthy,"Affectionate, Aggressive, Independent",Yes,Yes,5,479,2
+Labrador,115,Medium,Yes,Healthy,"Affectionate, Playful, Anxious",Yes,Yes,3,373,3
+Poodle,66,XL,No,Healthy,"Playful, Aggressive, Friendly",Yes,Yes,5,70,2
+Australian Shepherd,25,XL,Yes,Serious Injury,"Affectionate, Playful, Calm",No,Yes,1,82,0
+German Shepherd,62,Tiny,Yes,Minor Injury,"Affectionate, Friendly, Anxious",Yes,Yes,4,169,3
+Mixed,58,Large,No,Minor Injury,"Playful, Anxious, Independent",Yes,Yes,1,361,3
+Poodle,49,XL,No,Healthy,"Calm, Affectionate, Playful",Yes,Yes,3,189,3
+Beagle,70,Medium,No,Healthy,"Shy, Calm, Friendly",Yes,No,5,463,3
+German Shepherd,101,XL,Yes,Healthy,"Anxious, Friendly, Calm",Yes,Yes,0,283,1
+Bulldog,53,Medium,No,Healthy,"Calm, Shy, Playful",Yes,No,3,127,2
+Husky,5,XL,Yes,Healthy,"Calm, Friendly, Aggressive",Yes,Yes,3,281,3
+German Shepherd,109,Large,Yes,Healthy,"Aggressive, Affectionate, Friendly",Yes,Yes,3,369,2
+Australian Shepherd,47,Small,Yes,Healthy,"Affectionate, Anxious, Shy",Yes,No,2,330,2
+Australian Shepherd,40,Large,No,Minor Injury,"Anxious, Shy, Affectionate",No,Yes,3,163,2
+Mixed,13,Tiny,No,Minor Injury,"Shy, Independent, Friendly",No,Yes,1,143,1
+German Shepherd,106,Medium,No,Serious Injury,"Calm, Anxious, Aggressive",Yes,No,5,166,0
+Australian Shepherd,17,Medium,Yes,Healthy,"Anxious, Friendly, Calm",Yes,No,2,111,1
+Beagle,58,Small,Yes,Healthy,"Shy, Anxious, Independent",Yes,No,1,248,1
+German Shepherd,90,Tiny,No,Serious Injury,"Affectionate, Independent, Shy",Yes,Yes,4,337,2
+Labrador,23,Tiny,Yes,Healthy,"Calm, Friendly, Independent",Yes,Yes,0,415,3
+Mixed,117,Small,No,Healthy,"Aggressive, Affectionate, Independent",Yes,Yes,0,77,0
+Poodle,1,Large,Yes,Healthy,"Aggressive, Independent, Shy",Yes,Yes,1,115,2
+Beagle,118,Small,No,Healthy,"Shy, Friendly, Calm",Yes,Yes,0,256,1
+Husky,117,XL,Yes,Healthy,"Affectionate, Playful, Independent",Yes,Yes,0,291,1
+Labrador,61,Medium,Yes,Healthy,"Shy, Anxious, Friendly",Yes,Yes,4,297,3
+Labrador,93,Medium,No,Minor Injury,"Calm, Anxious, Independent",Yes,Yes,2,95,2
+German Shepherd,26,Small,Yes,Minor Injury,"Affectionate, Playful, Calm",Yes,No,2,105,1
+Labrador,57,Medium,No,Healthy,"Affectionate, Calm, Playful",Yes,Yes,4,481,4
+Beagle,92,Tiny,No,Healthy,"Independent, Aggressive, Anxious",Yes,No,4,66,1
+Golden Retriever,113,Medium,Yes,Healthy,"Affectionate, Calm, Friendly",Yes,Yes,5,257,2
+Golden Retriever,62,Tiny,No,Healthy,"Calm, Friendly, Affectionate",Yes,Yes,3,472,4
+Mixed,76,Medium,No,Healthy,"Anxious, Shy, Independent",Yes,Yes,1,493,3
+Beagle,48,XL,No,Healthy,"Playful, Affectionate, Independent",Yes,Yes,4,58,3
+German Shepherd,100,Tiny,Yes,Minor Injury,"Affectionate, Playful, Shy",Yes,No,0,273,0
+Beagle,94,Medium,No,Serious Injury,"Playful, Friendly, Shy",Yes,No,4,42,0
+Beagle,10,Large,Yes,Healthy,"Independent, Aggressive, Calm",Yes,Yes,5,344,4
+Poodle,100,Tiny,Yes,Healthy,"Anxious, Friendly, Playful",Yes,Yes,1,199,1
+Australian Shepherd,95,Small,No,Healthy,"Affectionate, Shy, Playful",Yes,Yes,1,269,2
+German Shepherd,19,Large,Yes,Minor Injury,"Independent, Affectionate, Calm",Yes,Yes,1,115,2
+Mixed,1,Medium,Yes,Minor Injury,"Calm, Anxious, Affectionate",Yes,Yes,4,23,4
+Bulldog,16,Small,Yes,Minor Injury,"Playful, Calm, Friendly",Yes,Yes,1,495,3
+Husky,32,Small,Yes,Healthy,"Anxious, Independent, Affectionate",Yes,Yes,2,359,3
+Golden Retriever,24,XL,Yes,Healthy,"Independent, Affectionate, Playful",Yes,Yes,3,197,3
+Beagle,35,Small,Yes,Minor Injury,"Calm, Aggressive, Friendly",No,Yes,3,52,1
+Poodle,33,XL,Yes,Healthy,"Calm, Affectionate, Independent",Yes,No,4,198,2
+Husky,43,Medium,Yes,Healthy,"Friendly, Shy, Independent",Yes,Yes,4,287,3
+Husky,67,Small,Yes,Healthy,"Independent, Anxious, Friendly",Yes,No,0,436,2
+Poodle,40,Tiny,No,Healthy,"Anxious, Friendly, Independent",Yes,No,1,62,1
+Husky,44,Medium,No,Healthy,"Anxious, Calm, Aggressive",Yes,Yes,4,416,3
+Australian Shepherd,12,Large,No,Healthy,"Independent, Friendly, Shy",Yes,Yes,5,405,4
+Beagle,115,Large,Yes,Minor Injury,"Shy, Calm, Affectionate",Yes,Yes,1,54,1
+Bulldog,87,Small,Yes,Healthy,"Anxious, Affectionate, Friendly",Yes,No,0,109,1
+German Shepherd,8,Medium,No,Healthy,"Calm, Aggressive, Friendly",Yes,No,4,429,3
+Australian Shepherd,74,Tiny,Yes,Serious Injury,"Affectionate, Shy, Anxious",Yes,Yes,1,437,1
+Mixed,115,Large,No,Healthy,"Playful, Anxious, Affectionate",Yes,No,0,410,1
+Beagle,68,Large,No,Healthy,"Playful, Friendly, Anxious",Yes,Yes,1,133,2
+Poodle,109,Large,No,Minor Injury,"Friendly, Anxious, Affectionate",Yes,Yes,2,432,2
+Poodle,36,Large,No,Minor Injury,"Independent, Friendly, Calm",Yes,Yes,0,296,2
+Husky,36,Large,Yes,Healthy,"Calm, Independent, Affectionate",No,Yes,1,376,2
+German Shepherd,73,XL,Yes,Healthy,"Independent, Shy, Aggressive",No,Yes,2,196,0
+Mixed,99,XL,No,Healthy,"Affectionate, Independent, Friendly",Yes,No,3,485,2
+Beagle,113,Medium,Yes,Serious Injury,"Friendly, Anxious, Independent",No,Yes,5,243,0
+Australian Shepherd,37,Medium,Yes,Minor Injury,"Affectionate, Shy, Friendly",Yes,Yes,3,388,4
+Golden Retriever,55,Small,Yes,Healthy,"Shy, Affectionate, Playful",Yes,Yes,4,298,3
+Golden Retriever,89,Small,No,Healthy,"Affectionate, Anxious, Independent",Yes,Yes,2,380,3
+Husky,30,Small,No,Serious Injury,"Affectionate, Friendly, Aggressive",Yes,Yes,0,388,0
+Husky,62,Medium,No,Healthy,"Friendly, Affectionate, Aggressive",Yes,Yes,3,387,3
+Husky,89,Medium,Yes,Serious Injury,"Friendly, Anxious, Calm",Yes,Yes,5,416,2
+Australian Shepherd,59,Medium,No,Healthy,"Friendly, Calm, Playful",Yes,Yes,2,196,2
+Golden Retriever,100,Medium,Yes,Healthy,"Friendly, Independent, Playful",Yes,Yes,3,464,3
+Mixed,105,Large,Yes,Healthy,"Friendly, Affectionate, Independent",Yes,Yes,2,95,1
+Bulldog,9,Small,Yes,Healthy,"Aggressive, Independent, Shy",Yes,Yes,3,225,3
+Australian Shepherd,95,Tiny,Yes,Healthy,"Calm, Aggressive, Independent",No,No,3,358,2
+Australian Shepherd,111,Small,No,Healthy,"Playful, Anxious, Affectionate",Yes,Yes,4,88,2
+Labrador,99,Small,No,Minor Injury,"Calm, Playful, Aggressive",Yes,Yes,3,44,1
+Mixed,52,Tiny,Yes,Healthy,"Shy, Calm, Anxious",Yes,Yes,2,488,3
+Husky,100,Large,Yes,Minor Injury,"Affectionate, Calm, Shy",No,Yes,4,170,1
+Australian Shepherd,16,Medium,Yes,Healthy,"Independent, Anxious, Calm",Yes,No,0,58,1
+German Shepherd,109,XL,No,Minor Injury,"Independent, Playful, Aggressive",Yes,Yes,4,61,1
+German Shepherd,58,Large,No,Serious Injury,"Playful, Calm, Aggressive",Yes,No,5,242,0
+Beagle,5,Medium,Yes,Healthy,"Independent, Affectionate, Shy",Yes,Yes,2,234,3
+Mixed,93,Small,No,Healthy,"Friendly, Independent, Playful",Yes,No,2,350,2
+Beagle,18,XL,Yes,Healthy,"Calm, Aggressive, Shy",Yes,No,3,28,1
+Beagle,74,Large,No,Minor Injury,"Aggressive, Anxious, Shy",Yes,Yes,1,420,2
+Poodle,102,XL,No,Healthy,"Independent, Playful, Friendly",Yes,No,5,160,1
+Husky,40,Small,Yes,Healthy,"Affectionate, Playful, Independent",Yes,Yes,1,412,3
+Poodle,50,XL,No,Minor Injury,"Affectionate, Shy, Friendly",Yes,Yes,2,141,2
+Husky,66,Large,No,Minor Injury,"Anxious, Calm, Playful",Yes,Yes,4,48,3
+Labrador,37,Large,No,Minor Injury,"Playful, Affectionate, Aggressive",Yes,Yes,5,358,3
+German Shepherd,8,Large,No,Serious Injury,"Anxious, Aggressive, Affectionate",Yes,Yes,4,340,2
+Husky,86,Small,No,Healthy,"Anxious, Friendly, Shy",Yes,Yes,3,164,3
+Labrador,71,Tiny,No,Healthy,"Anxious, Friendly, Aggressive",No,Yes,0,320,1
+Beagle,4,Small,No,Healthy,"Shy, Playful, Independent",Yes,No,3,89,3
+Labrador,31,Small,Yes,Healthy,"Playful, Aggressive, Friendly",Yes,No,2,464,1
+Bulldog,108,Tiny,No,Healthy,"Aggressive, Anxious, Playful",Yes,No,5,186,0
+Bulldog,91,XL,No,Healthy,"Independent, Shy, Calm",No,No,1,365,2
+Husky,19,Small,No,Healthy,"Playful, Friendly, Anxious",No,No,5,470,3
+Golden Retriever,45,XL,No,Healthy,"Independent, Affectionate, Anxious",Yes,Yes,4,261,3
+Golden Retriever,92,Large,Yes,Healthy,"Calm, Anxious, Friendly",Yes,No,5,77,2
+Mixed,20,Small,No,Serious Injury,"Anxious, Aggressive, Friendly",Yes,Yes,3,475,1
+Mixed,61,Small,No,Healthy,"Affectionate, Anxious, Calm",Yes,Yes,0,442,3
+Bulldog,1,Tiny,No,Healthy,"Playful, Anxious, Affectionate",Yes,No,2,480,3
+Husky,92,Small,No,Healthy,"Independent, Calm, Playful",Yes,Yes,5,210,3
+Poodle,113,Large,Yes,Healthy,"Aggressive, Affectionate, Shy",Yes,No,0,331,0
+Golden Retriever,33,Large,No,Healthy,"Independent, Friendly, Aggressive",Yes,No,5,136,1
+Australian Shepherd,6,Medium,Yes,Healthy,"Anxious, Playful, Friendly",No,Yes,1,63,2
+Labrador,45,Medium,No,Healthy,"Aggressive, Calm, Shy",Yes,No,4,336,2
+Australian Shepherd,47,XL,No,Healthy,"Affectionate, Independent, Anxious",Yes,Yes,4,99,3
+Beagle,118,Small,Yes,Minor Injury,"Affectionate, Shy, Friendly",No,No,4,222,1
+Husky,101,Tiny,Yes,Serious Injury,"Playful, Anxious, Affectionate",Yes,No,3,246,0
+Bulldog,19,Tiny,Yes,Healthy,"Affectionate, Calm, Playful",Yes,Yes,3,460,4
+Australian Shepherd,18,Large,Yes,Healthy,"Anxious, Playful, Affectionate",Yes,Yes,0,324,3
+Mixed,14,Tiny,No,Minor Injury,"Calm, Playful, Anxious",Yes,Yes,0,392,3
+Husky,54,Medium,No,Healthy,"Anxious, Playful, Calm",No,Yes,5,278,2
+Bulldog,16,Small,No,Healthy,"Shy, Independent, Anxious",Yes,Yes,0,478,3
+Golden Retriever,12,Large,No,Healthy,"Playful, Independent, Shy",Yes,No,1,243,1
+Beagle,16,XL,Yes,Minor Injury,"Playful, Shy, Anxious",No,Yes,5,479,3
+Australian Shepherd,24,Medium,Yes,Serious Injury,"Friendly, Affectionate, Anxious",Yes,Yes,3,392,2
+Beagle,8,Tiny,Yes,Healthy,"Anxious, Playful, Calm",Yes,Yes,1,367,4
+Golden Retriever,36,XL,No,Healthy,"Calm, Anxious, Independent",Yes,Yes,1,155,2
+Beagle,58,Tiny,Yes,Healthy,"Shy, Calm, Friendly",Yes,No,3,197,2
+Golden Retriever,28,Medium,Yes,Healthy,"Affectionate, Aggressive, Shy",Yes,No,3,376,2
+Golden Retriever,41,Small,No,Healthy,"Friendly, Anxious, Shy",Yes,Yes,3,211,3
+German Shepherd,27,Large,Yes,Minor Injury,"Independent, Calm, Playful",Yes,No,5,466,3
+Australian Shepherd,17,Medium,No,Healthy,"Shy, Affectionate, Aggressive",Yes,Yes,0,436,2
+Golden Retriever,117,Tiny,Yes,Healthy,"Shy, Friendly, Anxious",Yes,No,3,480,2
+Labrador,92,Medium,No,Healthy,"Shy, Independent, Friendly",No,No,4,416,3
+Husky,46,Small,No,Healthy,"Friendly, Calm, Anxious",Yes,Yes,2,272,2
+Golden Retriever,6,Medium,No,Healthy,"Shy, Calm, Anxious",No,Yes,1,390,3
+Australian Shepherd,69,XL,Yes,Healthy,"Calm, Affectionate, Playful",No,Yes,0,469,2
+Golden Retriever,10,Medium,No,Healthy,"Calm, Affectionate, Anxious",Yes,Yes,5,261,4
+Australian Shepherd,109,Medium,Yes,Serious Injury,"Independent, Calm, Affectionate",Yes,Yes,4,138,0
+Bulldog,33,Medium,No,Healthy,"Anxious, Calm, Playful",No,Yes,5,84,2
+Husky,18,Small,Yes,Serious Injury,"Affectionate, Independent, Shy",Yes,Yes,0,286,0
+Poodle,85,Large,No,Healthy,"Friendly, Shy, Calm",Yes,Yes,1,82,2
+Golden Retriever,89,Tiny,No,Serious Injury,"Affectionate, Friendly, Aggressive",Yes,No,5,334,0
+Golden Retriever,27,XL,Yes,Minor Injury,"Independent, Affectionate, Friendly",Yes,No,0,480,2
+Poodle,33,Small,No,Healthy,"Playful, Friendly, Independent",Yes,Yes,1,124,2
+Beagle,99,Large,Yes,Healthy,"Friendly, Shy, Affectionate",Yes,Yes,0,424,2
+Bulldog,112,Large,No,Healthy,"Calm, Affectionate, Playful",Yes,Yes,5,495,3
+Poodle,81,Tiny,Yes,Healthy,"Independent, Aggressive, Shy",Yes,Yes,4,370,3
+Poodle,5,Large,No,Healthy,"Friendly, Playful, Independent",Yes,No,5,278,3
+Poodle,53,Small,Yes,Healthy,"Calm, Affectionate, Friendly",Yes,Yes,4,72,3
+Golden Retriever,37,Small,Yes,Healthy,"Anxious, Aggressive, Playful",Yes,No,1,477,1
+Australian Shepherd,83,XL,No,Healthy,"Aggressive, Shy, Calm",Yes,No,0,104,0
+Poodle,78,XL,Yes,Minor Injury,"Calm, Affectionate, Anxious",Yes,Yes,0,385,3
+Australian Shepherd,1,XL,No,Healthy,"Anxious, Friendly, Playful",Yes,No,2,192,2
+German Shepherd,77,Medium,Yes,Healthy,"Independent, Playful, Shy",Yes,Yes,3,465,4
+German Shepherd,65,XL,No,Healthy,"Calm, Friendly, Aggressive",Yes,Yes,0,307,2
+Husky,34,Small,Yes,Healthy,"Calm, Shy, Affectionate",No,Yes,3,114,2
+Beagle,72,Tiny,No,Healthy,"Anxious, Friendly, Affectionate",Yes,Yes,1,269,2
+Australian Shepherd,34,Large,No,Healthy,"Shy, Friendly, Playful",Yes,Yes,5,137,3
+Labrador,3,Medium,Yes,Healthy,"Calm, Anxious, Aggressive",Yes,No,2,325,2
+Australian Shepherd,12,XL,Yes,Healthy,"Friendly, Anxious, Affectionate",No,Yes,0,73,1
+Labrador,108,Large,Yes,Serious Injury,"Shy, Independent, Anxious",Yes,Yes,4,497,1
+Labrador,94,Large,No,Healthy,"Shy, Aggressive, Playful",Yes,Yes,2,332,2
+Beagle,17,XL,No,Healthy,"Calm, Anxious, Shy",No,No,4,360,3
+Beagle,14,XL,No,Healthy,"Calm, Affectionate, Independent",Yes,Yes,1,94,2
+Husky,51,Tiny,Yes,Serious Injury,"Anxious, Playful, Calm",No,Yes,5,211,0
+German Shepherd,98,Small,Yes,Minor Injury,"Aggressive, Anxious, Independent",Yes,Yes,5,325,2
+Mixed,98,Large,No,Healthy,"Shy, Aggressive, Friendly",Yes,Yes,1,305,1
+Beagle,79,Large,No,Healthy,"Playful, Anxious, Independent",Yes,No,2,454,2
+Beagle,63,Tiny,No,Healthy,"Anxious, Affectionate, Shy",Yes,Yes,1,327,3
+Mixed,38,Medium,Yes,Healthy,"Affectionate, Anxious, Calm",No,No,0,491,2
+Labrador,79,Tiny,No,Healthy,"Calm, Aggressive, Anxious",Yes,No,3,49,1
+Bulldog,119,Small,No,Healthy,"Friendly, Playful, Independent",Yes,Yes,1,70,1
+German Shepherd,81,Tiny,No,Healthy,"Aggressive, Affectionate, Independent",Yes,Yes,4,304,3
+Bulldog,4,Large,Yes,Healthy,"Aggressive, Friendly, Independent",Yes,Yes,1,203,2
+Beagle,17,Tiny,No,Healthy,"Affectionate, Playful, Shy",Yes,Yes,1,292,2
+Poodle,84,Tiny,No,Healthy,"Friendly, Shy, Aggressive",Yes,No,4,53,1
+German Shepherd,6,Small,Yes,Healthy,"Playful, Friendly, Independent",Yes,Yes,4,469,4
+Bulldog,77,Small,No,Healthy,"Affectionate, Anxious, Shy",Yes,Yes,5,254,3
+Poodle,43,XL,No,Healthy,"Anxious, Calm, Shy",Yes,Yes,2,390,3
+Bulldog,111,XL,No,Minor Injury,"Playful, Anxious, Independent",No,Yes,0,170,0
+Husky,55,Small,No,Healthy,"Playful, Anxious, Shy",Yes,Yes,2,393,3
+Australian Shepherd,16,XL,Yes,Healthy,"Playful, Calm, Anxious",Yes,No,3,379,3
+Golden Retriever,4,Medium,Yes,Minor Injury,"Shy, Playful, Friendly",Yes,Yes,0,214,3
+Labrador,96,Tiny,No,Healthy,"Anxious, Aggressive, Independent",Yes,Yes,2,174,1
+Husky,93,XL,Yes,Healthy,"Friendly, Playful, Affectionate",No,No,1,80,1
+German Shepherd,51,XL,No,Healthy,"Shy, Calm, Independent",Yes,No,2,296,1
+Bulldog,5,Tiny,Yes,Healthy,"Anxious, Playful, Aggressive",Yes,Yes,1,111,2
+German Shepherd,42,Tiny,Yes,Minor Injury,"Playful, Shy, Aggressive",No,Yes,4,41,1
+Mixed,21,Small,No,Healthy,"Friendly, Independent, Playful",Yes,Yes,5,20,3
+Golden Retriever,5,Medium,Yes,Healthy,"Shy, Aggressive, Anxious",Yes,Yes,0,31,2
+German Shepherd,90,Medium,Yes,Healthy,"Shy, Friendly, Independent",Yes,Yes,5,53,3
+Husky,49,Tiny,Yes,Minor Injury,"Playful, Shy, Affectionate",Yes,Yes,5,237,3
+German Shepherd,45,Small,Yes,Healthy,"Anxious, Shy, Calm",Yes,No,2,92,1
+Beagle,26,Medium,Yes,Healthy,"Shy, Friendly, Independent",No,Yes,0,66,1
+Husky,86,Tiny,No,Healthy,"Affectionate, Anxious, Calm",Yes,Yes,5,126,3
+Poodle,63,XL,No,Healthy,"Aggressive, Calm, Friendly",Yes,Yes,4,356,3
+Bulldog,26,Large,No,Healthy,"Affectionate, Anxious, Shy",Yes,Yes,3,276,3
+Bulldog,8,Small,Yes,Serious Injury,"Playful, Shy, Friendly",Yes,No,0,374,1
+Labrador,52,Medium,Yes,Minor Injury,"Anxious, Affectionate, Independent",Yes,Yes,5,33,3
+Husky,90,Small,No,Healthy,"Playful, Shy, Independent",Yes,Yes,3,490,4
+Bulldog,78,XL,No,Minor Injury,"Independent, Aggressive, Affectionate",Yes,Yes,1,384,2
+German Shepherd,26,Large,Yes,Healthy,"Playful, Aggressive, Independent",No,Yes,5,206,1
+Mixed,56,Medium,No,Minor Injury,"Independent, Calm, Aggressive",Yes,Yes,2,26,1
+Bulldog,3,Small,Yes,Healthy,"Calm, Aggressive, Anxious",Yes,Yes,5,382,4
+Beagle,111,Small,No,Healthy,"Friendly, Anxious, Playful",Yes,No,3,293,1
+Mixed,38,XL,Yes,Healthy,"Independent, Shy, Playful",Yes,No,2,390,2
+Golden Retriever,15,XL,Yes,Healthy,"Friendly, Anxious, Shy",Yes,Yes,0,138,2
+Australian Shepherd,101,XL,Yes,Healthy,"Shy, Anxious, Affectionate",Yes,Yes,3,221,2
+Bulldog,39,Small,Yes,Minor Injury,"Independent, Affectionate, Anxious",No,Yes,0,292,1
+Mixed,103,Tiny,Yes,Serious Injury,"Aggressive, Independent, Affectionate",No,Yes,5,493,0
+Beagle,44,Tiny,Yes,Serious Injury,"Playful, Shy, Friendly",Yes,Yes,0,164,0
+Australian Shepherd,13,Tiny,No,Healthy,"Calm, Affectionate, Shy",No,Yes,3,44,2
+Australian Shepherd,68,Small,Yes,Healthy,"Aggressive, Independent, Calm",Yes,No,1,86,0
+Australian Shepherd,105,Tiny,Yes,Healthy,"Calm, Aggressive, Shy",Yes,No,4,165,0
+Bulldog,111,XL,Yes,Serious Injury,"Independent, Aggressive, Friendly",Yes,Yes,3,130,0
+Husky,86,Medium,No,Healthy,"Playful, Calm, Friendly",Yes,No,1,130,1
+Mixed,8,Tiny,No,Healthy,"Aggressive, Shy, Playful",Yes,Yes,0,255,2
+Husky,83,Tiny,Yes,Healthy,"Anxious, Calm, Shy",Yes,Yes,1,444,3
+Beagle,101,XL,Yes,Minor Injury,"Independent, Friendly, Anxious",Yes,No,5,199,1
+Australian Shepherd,26,XL,No,Healthy,"Playful, Affectionate, Anxious",Yes,Yes,1,462,3
+Husky,56,Large,Yes,Healthy,"Aggressive, Anxious, Shy",Yes,Yes,2,384,2
+Beagle,70,Tiny,Yes,Healthy,"Calm, Anxious, Playful",No,No,4,396,3
+Poodle,33,Medium,No,Healthy,"Independent, Calm, Anxious",Yes,Yes,4,169,3
+Golden Retriever,21,Large,No,Healthy,"Independent, Shy, Affectionate",Yes,Yes,5,89,3
+Mixed,119,Medium,Yes,Healthy,"Playful, Independent, Friendly",Yes,No,3,369,2
+Labrador,75,Small,No,Serious Injury,"Aggressive, Independent, Friendly",Yes,Yes,5,337,1
+Beagle,94,Tiny,Yes,Healthy,"Independent, Shy, Affectionate",No,Yes,0,266,1
+Beagle,3,Large,Yes,Healthy,"Aggressive, Independent, Playful",Yes,No,2,50,1
+Labrador,40,Tiny,No,Healthy,"Anxious, Shy, Aggressive",Yes,Yes,4,55,2
+Husky,24,Large,Yes,Minor Injury,"Aggressive, Shy, Affectionate",Yes,No,5,341,2
+Mixed,84,Tiny,No,Healthy,"Shy, Playful, Calm",Yes,Yes,3,94,3
+Poodle,4,XL,Yes,Healthy,"Affectionate, Independent, Playful",Yes,Yes,5,137,4
+Golden Retriever,113,Small,Yes,Healthy,"Aggressive, Shy, Affectionate",Yes,Yes,5,454,2
+Husky,62,Medium,No,Healthy,"Shy, Playful, Aggressive",Yes,No,0,213,0
+German Shepherd,79,Tiny,No,Healthy,"Shy, Calm, Independent",Yes,Yes,2,411,3
+Poodle,26,Tiny,Yes,Healthy,"Friendly, Playful, Aggressive",No,Yes,2,192,0
+Golden Retriever,44,Large,No,Minor Injury,"Friendly, Playful, Independent",Yes,Yes,4,345,4
+Golden Retriever,26,Medium,Yes,Healthy,"Friendly, Aggressive, Anxious",Yes,No,5,343,2
+Labrador,19,Small,Yes,Healthy,"Independent, Anxious, Friendly",Yes,No,3,244,2
+Bulldog,20,XL,Yes,Minor Injury,"Anxious, Friendly, Independent",No,Yes,0,159,1
+Bulldog,47,Large,No,Healthy,"Playful, Friendly, Anxious",No,No,0,109,1
+German Shepherd,14,Tiny,No,Healthy,"Calm, Shy, Anxious",Yes,Yes,5,312,4
+Golden Retriever,11,Small,Yes,Minor Injury,"Friendly, Calm, Independent",No,Yes,3,352,4
+Golden Retriever,107,XL,No,Healthy,"Friendly, Affectionate, Aggressive",No,Yes,2,180,0
+Husky,6,Large,Yes,Healthy,"Calm, Friendly, Anxious",Yes,No,1,29,2
+Poodle,5,Tiny,Yes,Minor Injury,"Independent, Aggressive, Calm",Yes,Yes,1,191,2
+Australian Shepherd,2,Tiny,Yes,Healthy,"Calm, Friendly, Anxious",Yes,Yes,4,187,4
+Golden Retriever,2,Medium,Yes,Healthy,"Affectionate, Calm, Anxious",Yes,No,3,340,4
+Mixed,63,Medium,No,Minor Injury,"Shy, Anxious, Affectionate",Yes,No,4,348,3
+Australian Shepherd,17,Medium,No,Minor Injury,"Shy, Affectionate, Aggressive",Yes,No,0,478,1
+Australian Shepherd,15,XL,No,Minor Injury,"Calm, Playful, Affectionate",Yes,Yes,5,438,4
+Husky,94,XL,Yes,Healthy,"Aggressive, Anxious, Playful",Yes,Yes,0,88,1
+Beagle,62,Small,No,Healthy,"Affectionate, Friendly, Aggressive",Yes,Yes,3,255,2
+Labrador,50,Small,No,Healthy,"Affectionate, Shy, Aggressive",Yes,Yes,5,392,3
+German Shepherd,75,Medium,Yes,Healthy,"Anxious, Playful, Shy",No,No,0,437,2
+Bulldog,76,Small,Yes,Healthy,"Friendly, Independent, Aggressive",Yes,No,2,54,0
+Labrador,1,Large,Yes,Healthy,"Playful, Shy, Calm",Yes,No,5,79,3
+Mixed,64,Large,No,Minor Injury,"Affectionate, Calm, Shy",Yes,Yes,4,347,4
+Golden Retriever,11,XL,Yes,Healthy,"Independent, Friendly, Affectionate",Yes,Yes,0,248,3
+Poodle,14,Large,Yes,Healthy,"Friendly, Independent, Calm",No,Yes,3,305,3
+Mixed,35,Small,Yes,Healthy,"Aggressive, Playful, Friendly",Yes,Yes,4,184,2
+German Shepherd,5,Tiny,No,Serious Injury,"Friendly, Aggressive, Anxious",Yes,Yes,2,398,1
+Bulldog,78,Medium,Yes,Healthy,"Affectionate, Independent, Calm",Yes,No,1,81,1
+Husky,4,Small,No,Healthy,"Calm, Independent, Affectionate",Yes,Yes,0,256,3
+German Shepherd,42,Medium,Yes,Healthy,"Aggressive, Independent, Calm",Yes,No,0,421,1
+Beagle,40,Medium,No,Healthy,"Shy, Aggressive, Playful",No,Yes,5,307,2
+Poodle,51,Large,Yes,Healthy,"Anxious, Friendly, Calm",Yes,No,4,441,3
+German Shepherd,97,Small,Yes,Healthy,"Affectionate, Shy, Calm",No,Yes,0,172,0
+Poodle,17,Large,No,Healthy,"Calm, Affectionate, Independent",Yes,Yes,0,469,3
+Bulldog,78,Small,Yes,Healthy,"Shy, Affectionate, Friendly",Yes,Yes,4,123,3
+Golden Retriever,104,Large,No,Healthy,"Aggressive, Independent, Calm",No,No,2,58,0
+Husky,51,Small,Yes,Healthy,"Aggressive, Shy, Independent",No,Yes,5,153,1
+Poodle,67,Large,No,Healthy,"Playful, Calm, Anxious",Yes,Yes,2,475,3
+Husky,42,Medium,No,Minor Injury,"Calm, Affectionate, Aggressive",Yes,Yes,3,34,2
+Golden Retriever,111,Tiny,Yes,Healthy,"Calm, Shy, Independent",Yes,Yes,4,308,3
+Poodle,116,Medium,Yes,Healthy,"Friendly, Anxious, Affectionate",Yes,Yes,5,250,2
+Labrador,27,Tiny,Yes,Healthy,"Shy, Aggressive, Anxious",Yes,Yes,3,176,2
+Australian Shepherd,38,Small,Yes,Healthy,"Playful, Calm, Aggressive",Yes,Yes,0,116,1
+Mixed,101,XL,Yes,Healthy,"Shy, Friendly, Independent",Yes,Yes,2,458,2
+Poodle,33,Large,Yes,Healthy,"Friendly, Anxious, Affectionate",No,Yes,5,215,2
+Golden Retriever,86,Medium,Yes,Healthy,"Affectionate, Shy, Independent",No,Yes,1,29,1
+Labrador,5,Tiny,Yes,Serious Injury,"Affectionate, Shy, Playful",Yes,Yes,2,349,2
+Poodle,97,Medium,Yes,Healthy,"Friendly, Calm, Aggressive",Yes,No,5,313,1
+Labrador,13,Medium,No,Minor Injury,"Independent, Aggressive, Affectionate",Yes,No,3,384,2
+Labrador,88,Tiny,Yes,Healthy,"Calm, Affectionate, Anxious",No,No,3,203,2
+Mixed,15,Tiny,No,Minor Injury,"Calm, Playful, Aggressive",Yes,Yes,4,155,2
+Golden Retriever,5,Large,No,Healthy,"Calm, Playful, Shy",Yes,Yes,4,66,4
+German Shepherd,68,Tiny,No,Serious Injury,"Affectionate, Anxious, Friendly",Yes,Yes,3,192,1
+Golden Retriever,2,Medium,Yes,Minor Injury,"Calm, Aggressive, Anxious",Yes,Yes,2,114,2
+Labrador,115,Tiny,No,Healthy,"Playful, Independent, Anxious",Yes,Yes,2,439,2
+Bulldog,36,Medium,Yes,Healthy,"Aggressive, Affectionate, Calm",Yes,Yes,1,318,2
+German Shepherd,27,XL,Yes,Healthy,"Calm, Friendly, Aggressive",No,No,4,167,1
+Poodle,11,Large,No,Healthy,"Friendly, Playful, Affectionate",Yes,Yes,5,349,4
+Golden Retriever,104,Small,Yes,Healthy,"Affectionate, Playful, Aggressive",Yes,Yes,5,153,1
+Australian Shepherd,72,Tiny,Yes,Healthy,"Playful, Friendly, Anxious",Yes,Yes,1,321,3
+Mixed,107,XL,Yes,Healthy,"Affectionate, Calm, Anxious",No,No,3,237,1
+Australian Shepherd,13,Medium,No,Minor Injury,"Independent, Affectionate, Aggressive",Yes,No,5,229,1
+Bulldog,89,Tiny,No,Healthy,"Friendly, Affectionate, Anxious",Yes,Yes,0,130,2
+German Shepherd,104,Large,Yes,Minor Injury,"Anxious, Playful, Calm",Yes,Yes,3,190,2
+Golden Retriever,76,Small,No,Minor Injury,"Aggressive, Independent, Calm",Yes,Yes,3,375,3
+Poodle,112,Large,No,Healthy,"Calm, Aggressive, Playful",Yes,Yes,3,152,1
+Golden Retriever,37,XL,No,Serious Injury,"Calm, Independent, Friendly",Yes,No,1,111,0
+Poodle,31,Large,No,Healthy,"Anxious, Aggressive, Friendly",No,No,1,412,1
+Mixed,118,Large,No,Serious Injury,"Affectionate, Anxious, Shy",Yes,Yes,2,48,0
+Husky,78,Medium,No,Minor Injury,"Aggressive, Shy, Anxious",Yes,Yes,0,233,1
+Beagle,11,Small,Yes,Healthy,"Independent, Affectionate, Playful",Yes,Yes,0,321,4
+Golden Retriever,101,XL,No,Minor Injury,"Anxious, Affectionate, Playful",Yes,Yes,4,365,3
+German Shepherd,110,Tiny,Yes,Healthy,"Calm, Affectionate, Independent",Yes,No,3,201,1
+Mixed,87,Small,Yes,Healthy,"Affectionate, Playful, Friendly",No,Yes,0,20,1
+Bulldog,63,XL,No,Healthy,"Friendly, Independent, Anxious",Yes,Yes,5,74,3
+Golden Retriever,115,Medium,Yes,Healthy,"Friendly, Shy, Affectionate",No,No,4,450,2
+Australian Shepherd,73,Small,No,Minor Injury,"Aggressive, Anxious, Independent",No,Yes,4,156,1
+German Shepherd,74,Tiny,Yes,Serious Injury,"Shy, Aggressive, Playful",Yes,Yes,3,332,1
+German Shepherd,117,Small,No,Healthy,"Affectionate, Independent, Shy",Yes,No,1,444,1
+Labrador,35,XL,No,Healthy,"Independent, Playful, Affectionate",Yes,Yes,3,44,3
+German Shepherd,90,XL,Yes,Minor Injury,"Calm, Aggressive, Friendly",Yes,Yes,2,313,2
+Bulldog,2,Small,No,Healthy,"Friendly, Shy, Affectionate",Yes,No,1,494,3
+Labrador,34,Tiny,No,Healthy,"Aggressive, Playful, Independent",No,Yes,2,36,0
+Poodle,43,Large,No,Healthy,"Friendly, Playful, Affectionate",No,Yes,2,383,2
+Husky,51,Large,No,Healthy,"Aggressive, Calm, Friendly",Yes,Yes,5,171,2
+Husky,25,XL,Yes,Healthy,"Aggressive, Independent, Anxious",Yes,No,3,217,1
+Golden Retriever,117,Tiny,Yes,Healthy,"Anxious, Independent, Playful",Yes,Yes,0,196,1
+Australian Shepherd,29,Medium,Yes,Healthy,"Playful, Shy, Calm",Yes,Yes,2,169,2
+Bulldog,26,Medium,No,Healthy,"Anxious, Aggressive, Calm",Yes,Yes,3,389,3
+Husky,85,Tiny,Yes,Minor Injury,"Playful, Independent, Affectionate",Yes,Yes,0,474,3
+Mixed,81,Medium,Yes,Healthy,"Affectionate, Aggressive, Anxious",No,Yes,3,380,2
+German Shepherd,49,XL,Yes,Healthy,"Anxious, Affectionate, Friendly",Yes,Yes,3,137,3
+Mixed,86,Medium,Yes,Healthy,"Calm, Playful, Anxious",Yes,Yes,3,82,3
+Husky,61,XL,Yes,Healthy,"Independent, Shy, Aggressive",No,No,0,346,1
+German Shepherd,1,Small,Yes,Healthy,"Friendly, Shy, Playful",Yes,No,4,497,4
+Labrador,87,XL,No,Healthy,"Shy, Calm, Independent",Yes,Yes,2,398,3
+Australian Shepherd,56,Medium,No,Healthy,"Aggressive, Playful, Calm",Yes,No,2,337,1
+Beagle,32,Large,No,Healthy,"Friendly, Independent, Affectionate",Yes,Yes,5,304,4
+Beagle,49,Large,Yes,Healthy,"Aggressive, Anxious, Shy",Yes,Yes,4,496,3
+Mixed,30,Medium,Yes,Healthy,"Independent, Aggressive, Anxious",Yes,No,2,37,0
+Australian Shepherd,1,XL,Yes,Healthy,"Shy, Anxious, Calm",No,Yes,5,390,4
+Husky,47,Small,No,Minor Injury,"Shy, Independent, Playful",No,No,1,213,1
+Labrador,118,XL,No,Minor Injury,"Aggressive, Playful, Friendly",Yes,No,3,132,0
+Husky,114,Large,Yes,Healthy,"Aggressive, Anxious, Friendly",Yes,Yes,5,185,1
+Australian Shepherd,51,XL,Yes,Healthy,"Playful, Independent, Shy",No,No,3,404,3
+German Shepherd,8,XL,Yes,Healthy,"Calm, Friendly, Anxious",Yes,No,4,74,3
+Australian Shepherd,103,Medium,Yes,Healthy,"Affectionate, Shy, Playful",Yes,Yes,2,307,2
+Bulldog,10,XL,No,Healthy,"Affectionate, Playful, Anxious",No,Yes,1,486,3
+Husky,110,Medium,No,Healthy,"Calm, Aggressive, Independent",Yes,Yes,1,399,1
+Poodle,97,XL,No,Healthy,"Aggressive, Friendly, Affectionate",Yes,No,3,307,1
+Australian Shepherd,50,Large,Yes,Healthy,"Calm, Aggressive, Shy",Yes,Yes,4,27,2
+Mixed,65,Small,Yes,Healthy,"Independent, Friendly, Affectionate",No,Yes,0,266,1
+Golden Retriever,67,Medium,Yes,Healthy,"Affectionate, Aggressive, Shy",Yes,Yes,2,274,1
+Golden Retriever,72,Tiny,Yes,Healthy,"Calm, Shy, Independent",Yes,No,5,268,2
+German Shepherd,111,Tiny,Yes,Healthy,"Calm, Friendly, Aggressive",Yes,Yes,4,86,1
+Labrador,51,Medium,Yes,Healthy,"Affectionate, Anxious, Aggressive",Yes,No,0,111,0
+German Shepherd,111,XL,Yes,Healthy,"Friendly, Shy, Independent",Yes,No,1,310,1
+Poodle,96,Small,No,Healthy,"Shy, Playful, Affectionate",Yes,No,5,307,3
+Golden Retriever,46,Small,Yes,Healthy,"Playful, Anxious, Friendly",Yes,Yes,2,419,3
+Australian Shepherd,68,Small,Yes,Minor Injury,"Anxious, Friendly, Aggressive",Yes,Yes,3,184,2
+Husky,54,Large,Yes,Serious Injury,"Affectionate, Anxious, Aggressive",Yes,No,4,417,0
+Poodle,95,Large,Yes,Healthy,"Aggressive, Anxious, Playful",Yes,No,1,26,0
+Golden Retriever,74,Medium,Yes,Healthy,"Playful, Friendly, Anxious",Yes,Yes,0,170,2
+Bulldog,85,Medium,No,Healthy,"Calm, Aggressive, Independent",Yes,Yes,2,131,1
+Husky,19,Large,No,Healthy,"Anxious, Affectionate, Shy",Yes,No,3,304,3
+Australian Shepherd,60,Small,No,Healthy,"Affectionate, Calm, Anxious",Yes,No,1,21,1
+Golden Retriever,1,Small,Yes,Minor Injury,"Affectionate, Anxious, Independent",No,Yes,4,423,4
+Husky,11,Large,No,Minor Injury,"Playful, Shy, Aggressive",No,Yes,1,405,2
+Poodle,67,Small,No,Serious Injury,"Anxious, Playful, Affectionate",Yes,Yes,3,39,1
+Labrador,5,Large,No,Healthy,"Friendly, Independent, Affectionate",Yes,No,4,441,4
+German Shepherd,94,Large,No,Healthy,"Friendly, Shy, Playful",Yes,Yes,0,245,2
+Bulldog,53,XL,Yes,Healthy,"Independent, Shy, Affectionate",Yes,Yes,3,374,4
+Mixed,116,Large,No,Healthy,"Anxious, Friendly, Shy",Yes,Yes,1,361,2
+Poodle,108,Tiny,No,Minor Injury,"Independent, Calm, Anxious",Yes,No,0,221,0
+Australian Shepherd,30,Large,Yes,Healthy,"Anxious, Friendly, Playful",Yes,Yes,2,234,2
+Beagle,96,Tiny,No,Minor Injury,"Friendly, Independent, Aggressive",No,Yes,0,389,1
+Bulldog,115,Medium,No,Healthy,"Playful, Aggressive, Affectionate",Yes,Yes,0,33,0
+Bulldog,9,Small,No,Healthy,"Independent, Friendly, Anxious",Yes,No,1,256,2
+Bulldog,25,Medium,Yes,Healthy,"Independent, Playful, Friendly",No,Yes,0,265,1
+Beagle,22,Small,No,Healthy,"Aggressive, Affectionate, Independent",Yes,Yes,2,23,1
+Mixed,26,Small,Yes,Healthy,"Aggressive, Anxious, Friendly",Yes,No,1,48,0
+Poodle,109,Tiny,No,Healthy,"Playful, Anxious, Aggressive",Yes,Yes,1,234,0
+Mixed,37,Large,Yes,Serious Injury,"Friendly, Aggressive, Shy",Yes,Yes,2,345,0
+Husky,18,Large,No,Serious Injury,"Playful, Friendly, Calm",Yes,Yes,4,61,1
+German Shepherd,100,Large,Yes,Healthy,"Affectionate, Calm, Independent",Yes,Yes,0,441,2
+Golden Retriever,34,XL,Yes,Healthy,"Friendly, Shy, Affectionate",Yes,Yes,0,184,2
+Beagle,25,Medium,Yes,Healthy,"Aggressive, Affectionate, Independent",Yes,Yes,5,397,3
+Golden Retriever,76,Medium,No,Healthy,"Calm, Friendly, Independent",Yes,Yes,4,381,4
+Mixed,86,Small,No,Minor Injury,"Aggressive, Shy, Independent",Yes,No,4,46,1
+German Shepherd,57,Large,No,Healthy,"Independent, Anxious, Aggressive",Yes,Yes,5,238,2
+Labrador,40,Large,Yes,Healthy,"Playful, Shy, Calm",Yes,Yes,1,287,2
+Australian Shepherd,109,Medium,No,Healthy,"Friendly, Calm, Playful",Yes,Yes,0,328,2
+Bulldog,71,XL,Yes,Serious Injury,"Friendly, Calm, Anxious",Yes,Yes,1,192,0
+Australian Shepherd,17,Tiny,No,Healthy,"Affectionate, Independent, Shy",No,Yes,1,488,2
+Beagle,92,Large,No,Minor Injury,"Shy, Playful, Affectionate",Yes,Yes,5,141,3
+Mixed,46,Medium,No,Healthy,"Affectionate, Anxious, Calm",Yes,Yes,1,329,3
+Australian Shepherd,107,Large,Yes,Healthy,"Playful, Shy, Independent",Yes,Yes,0,326,2
+Poodle,53,Small,Yes,Healthy,"Shy, Playful, Aggressive",Yes,Yes,3,390,3
+Golden Retriever,26,XL,Yes,Healthy,"Calm, Playful, Independent",No,Yes,4,168,2
+Bulldog,11,Small,No,Healthy,"Calm, Shy, Friendly",No,Yes,2,183,2
+Beagle,113,Medium,No,Healthy,"Friendly, Affectionate, Aggressive",Yes,No,2,314,0
+Husky,104,Small,No,Healthy,"Anxious, Friendly, Independent",Yes,Yes,2,329,2
+Beagle,98,Large,Yes,Minor Injury,"Affectionate, Calm, Anxious",Yes,Yes,5,425,3
+Labrador,69,Tiny,Yes,Healthy,"Affectionate, Friendly, Playful",Yes,Yes,0,269,2
+Australian Shepherd,36,Medium,Yes,Minor Injury,"Friendly, Affectionate, Shy",Yes,Yes,3,486,4
+Bulldog,99,Large,No,Healthy,"Calm, Independent, Anxious",Yes,No,3,356,2
+Bulldog,62,Medium,Yes,Healthy,"Aggressive, Friendly, Anxious",No,Yes,2,384,1
+Mixed,107,XL,No,Healthy,"Shy, Affectionate, Anxious",Yes,Yes,1,220,1
+Australian Shepherd,26,Medium,No,Healthy,"Playful, Shy, Affectionate",No,Yes,1,92,1
+Poodle,73,Medium,No,Healthy,"Affectionate, Independent, Playful",Yes,Yes,0,148,2
+Australian Shepherd,89,Small,No,Healthy,"Affectionate, Calm, Aggressive",Yes,Yes,4,446,3
+Poodle,104,Small,Yes,Healthy,"Anxious, Playful, Friendly",Yes,Yes,1,44,1
+Mixed,39,Large,Yes,Healthy,"Aggressive, Affectionate, Anxious",Yes,No,2,150,0
+Bulldog,114,Large,Yes,Healthy,"Aggressive, Affectionate, Anxious",Yes,Yes,4,127,1
+Beagle,44,Small,Yes,Minor Injury,"Shy, Calm, Aggressive",Yes,Yes,2,497,2
+Labrador,102,Small,Yes,Healthy,"Anxious, Calm, Playful",Yes,Yes,1,31,1
+Poodle,19,Large,Yes,Healthy,"Playful, Friendly, Independent",Yes,Yes,4,63,3
+Beagle,59,Tiny,Yes,Healthy,"Shy, Independent, Friendly",Yes,No,2,324,2
+Labrador,61,Tiny,No,Healthy,"Shy, Affectionate, Aggressive",Yes,No,0,349,1
+Beagle,57,Large,Yes,Healthy,"Anxious, Calm, Independent",Yes,No,0,322,2
+Australian Shepherd,12,Large,No,Healthy,"Affectionate, Shy, Friendly",Yes,Yes,5,99,3
+Australian Shepherd,88,Medium,Yes,Healthy,"Calm, Aggressive, Affectionate",No,Yes,2,283,0
+Australian Shepherd,95,Tiny,No,Minor Injury,"Playful, Friendly, Calm",Yes,Yes,4,100,3
+Poodle,87,XL,No,Healthy,"Affectionate, Anxious, Friendly",Yes,Yes,4,393,4
+Golden Retriever,80,Medium,Yes,Healthy,"Shy, Playful, Affectionate",Yes,Yes,5,219,3
+Poodle,25,Large,Yes,Healthy,"Anxious, Independent, Aggressive",Yes,Yes,1,108,1
+Mixed,12,Tiny,No,Healthy,"Shy, Playful, Affectionate",Yes,No,2,429,2
+Poodle,105,Large,Yes,Healthy,"Anxious, Affectionate, Calm",Yes,Yes,4,45,2
+Mixed,47,XL,Yes,Minor Injury,"Friendly, Playful, Shy",No,Yes,1,35,1
+Bulldog,71,XL,No,Healthy,"Aggressive, Friendly, Independent",No,Yes,0,426,1
+Husky,26,Large,Yes,Minor Injury,"Independent, Affectionate, Aggressive",Yes,Yes,4,105,2
+Poodle,7,Small,Yes,Healthy,"Independent, Affectionate, Shy",Yes,Yes,5,354,4
+Beagle,117,Medium,No,Minor Injury,"Anxious, Affectionate, Independent",Yes,Yes,0,390,2
+Bulldog,48,XL,Yes,Healthy,"Friendly, Calm, Aggressive",Yes,Yes,1,334,2
+Labrador,87,Medium,Yes,Healthy,"Friendly, Playful, Calm",No,Yes,4,101,2
+Beagle,95,Tiny,No,Serious Injury,"Calm, Playful, Anxious",Yes,Yes,5,391,2
+Mixed,39,Medium,Yes,Healthy,"Friendly, Playful, Affectionate",Yes,No,2,421,2
+Poodle,59,Medium,No,Healthy,"Shy, Friendly, Independent",Yes,Yes,1,122,2
+Golden Retriever,17,Tiny,Yes,Serious Injury,"Independent, Calm, Aggressive",Yes,No,5,178,0
+Bulldog,24,XL,Yes,Healthy,"Anxious, Playful, Calm",Yes,Yes,2,127,2
+German Shepherd,60,Medium,Yes,Healthy,"Anxious, Aggressive, Friendly",Yes,Yes,4,117,2
+Golden Retriever,3,Medium,No,Healthy,"Independent, Playful, Aggressive",Yes,Yes,4,190,3
+Golden Retriever,40,Medium,Yes,Healthy,"Anxious, Affectionate, Independent",Yes,Yes,1,202,2
+Husky,87,Small,No,Healthy,"Aggressive, Friendly, Anxious",No,Yes,3,58,1
+Bulldog,15,Tiny,No,Minor Injury,"Independent, Affectionate, Friendly",Yes,Yes,0,23,2
+Golden Retriever,93,Medium,No,Healthy,"Independent, Friendly, Affectionate",Yes,Yes,5,428,4
+Beagle,13,XL,No,Healthy,"Affectionate, Playful, Shy",Yes,Yes,1,180,2
+Poodle,16,Tiny,Yes,Healthy,"Calm, Anxious, Affectionate",Yes,Yes,4,445,4
+Poodle,108,Medium,No,Healthy,"Independent, Shy, Affectionate",Yes,Yes,5,469,3
+Husky,55,Medium,No,Healthy,"Calm, Independent, Anxious",Yes,Yes,2,189,2
+Husky,34,Tiny,No,Healthy,"Friendly, Shy, Independent",Yes,Yes,5,270,3
+Labrador,119,Tiny,No,Healthy,"Independent, Anxious, Playful",Yes,No,4,160,1
+Golden Retriever,18,Small,No,Healthy,"Shy, Calm, Aggressive",No,Yes,2,398,1
+German Shepherd,39,Small,No,Healthy,"Playful, Affectionate, Shy",No,Yes,5,48,2
+Australian Shepherd,62,Large,Yes,Healthy,"Independent, Calm, Affectionate",Yes,No,0,496,2
+Husky,62,Medium,Yes,Healthy,"Anxious, Affectionate, Playful",No,No,4,255,2
+Bulldog,57,Small,No,Minor Injury,"Calm, Playful, Independent",Yes,No,3,258,2
+Bulldog,10,Large,Yes,Healthy,"Anxious, Calm, Friendly",Yes,Yes,5,428,4
+Bulldog,103,Small,Yes,Minor Injury,"Friendly, Independent, Anxious",No,No,3,408,2
+Golden Retriever,65,Small,Yes,Healthy,"Shy, Affectionate, Calm",No,Yes,5,196,2
+Labrador,3,Medium,No,Serious Injury,"Friendly, Aggressive, Independent",No,No,4,161,0
+Mixed,30,Small,Yes,Healthy,"Calm, Playful, Friendly",Yes,Yes,1,343,3
+Bulldog,18,XL,Yes,Healthy,"Playful, Calm, Affectionate",Yes,Yes,5,312,4
+Husky,25,XL,No,Minor Injury,"Independent, Shy, Aggressive",Yes,Yes,0,456,2
+Bulldog,110,Small,Yes,Healthy,"Playful, Calm, Aggressive",Yes,Yes,0,418,1
+Bulldog,49,Small,Yes,Healthy,"Affectionate, Anxious, Friendly",Yes,Yes,0,363,3
+Australian Shepherd,68,Small,No,Healthy,"Playful, Friendly, Independent",No,Yes,3,206,2
+Golden Retriever,37,XL,Yes,Healthy,"Affectionate, Aggressive, Playful",No,Yes,4,446,2
+Husky,70,Large,Yes,Healthy,"Playful, Shy, Calm",Yes,No,5,363,3
+Mixed,11,Large,Yes,Healthy,"Playful, Independent, Friendly",No,Yes,5,352,4
+Australian Shepherd,98,Tiny,Yes,Healthy,"Calm, Aggressive, Anxious",Yes,Yes,0,218,0
+Australian Shepherd,52,XL,Yes,Minor Injury,"Shy, Calm, Anxious",Yes,No,3,78,2
+German Shepherd,72,Tiny,Yes,Healthy,"Affectionate, Independent, Calm",Yes,Yes,3,368,4
+Husky,63,XL,Yes,Healthy,"Anxious, Playful, Shy",No,Yes,5,392,3
+German Shepherd,115,Small,Yes,Healthy,"Playful, Aggressive, Calm",Yes,No,4,385,1
+Australian Shepherd,74,Medium,Yes,Healthy,"Calm, Shy, Playful",Yes,Yes,2,245,2
+Australian Shepherd,57,Large,No,Healthy,"Playful, Friendly, Aggressive",Yes,Yes,1,444,2
+Australian Shepherd,113,Large,No,Healthy,"Playful, Shy, Friendly",Yes,Yes,1,278,1
+Bulldog,6,Tiny,Yes,Healthy,"Independent, Playful, Shy",No,Yes,4,280,3
+Mixed,54,Medium,Yes,Healthy,"Anxious, Shy, Affectionate",Yes,Yes,0,28,2
+Husky,99,Small,No,Minor Injury,"Independent, Playful, Anxious",Yes,Yes,3,397,3
+Golden Retriever,113,Tiny,No,Minor Injury,"Shy, Calm, Aggressive",Yes,Yes,4,398,2
+Mixed,106,Medium,No,Healthy,"Aggressive, Friendly, Playful",Yes,Yes,2,197,0
+Husky,82,Tiny,No,Minor Injury,"Friendly, Aggressive, Affectionate",No,Yes,5,164,1
+Beagle,88,Small,No,Healthy,"Affectionate, Aggressive, Shy",No,Yes,2,179,0
+Mixed,99,Small,Yes,Healthy,"Affectionate, Independent, Playful",Yes,Yes,5,288,2
+Golden Retriever,111,Large,Yes,Healthy,"Aggressive, Playful, Independent",Yes,Yes,0,348,1
+Poodle,68,Medium,No,Healthy,"Independent, Anxious, Playful",Yes,Yes,5,376,4
+Golden Retriever,98,XL,Yes,Minor Injury,"Aggressive, Calm, Anxious",No,Yes,2,124,0
+Australian Shepherd,56,Tiny,Yes,Healthy,"Affectionate, Anxious, Friendly",No,Yes,2,142,1
+Golden Retriever,92,Tiny,No,Healthy,"Independent, Friendly, Anxious",Yes,Yes,4,156,3
+Beagle,67,Medium,Yes,Serious Injury,"Friendly, Anxious, Playful",Yes,Yes,0,245,0
+Husky,76,Small,No,Healthy,"Shy, Anxious, Calm",Yes,Yes,1,28,2
+Labrador,79,Medium,No,Healthy,"Aggressive, Calm, Affectionate",No,Yes,0,280,0
+Husky,11,Medium,Yes,Healthy,"Playful, Anxious, Shy",No,Yes,2,245,2
+Labrador,88,Large,Yes,Healthy,"Affectionate, Independent, Friendly",Yes,Yes,3,482,4
+Poodle,38,XL,Yes,Healthy,"Playful, Aggressive, Anxious",Yes,Yes,2,408,2
+Labrador,48,Medium,Yes,Healthy,"Shy, Calm, Aggressive",No,Yes,1,421,1
+Mixed,70,Tiny,No,Healthy,"Aggressive, Calm, Shy",Yes,Yes,4,335,3
+Beagle,48,Large,Yes,Healthy,"Calm, Affectionate, Playful",Yes,Yes,4,303,4
+Husky,69,Tiny,Yes,Healthy,"Independent, Calm, Shy",No,No,4,100,2
+Bulldog,114,Small,Yes,Healthy,"Independent, Friendly, Aggressive",Yes,Yes,4,243,1
+Labrador,62,Tiny,No,Healthy,"Anxious, Aggressive, Shy",Yes,No,4,134,1
+Australian Shepherd,58,XL,No,Healthy,"Aggressive, Independent, Anxious",No,Yes,2,75,0
+Australian Shepherd,40,XL,Yes,Healthy,"Affectionate, Playful, Aggressive",Yes,Yes,1,59,1
+Australian Shepherd,91,Large,Yes,Serious Injury,"Calm, Anxious, Friendly",Yes,Yes,4,256,1
+German Shepherd,33,Medium,No,Healthy,"Playful, Affectionate, Aggressive",Yes,Yes,5,235,2
+German Shepherd,19,Medium,No,Healthy,"Calm, Friendly, Playful",Yes,Yes,3,372,4
+Poodle,59,Medium,Yes,Minor Injury,"Affectionate, Aggressive, Friendly",Yes,Yes,2,323,2
+Husky,41,Small,No,Healthy,"Independent, Shy, Affectionate",Yes,No,4,382,3
+Golden Retriever,45,XL,No,Healthy,"Aggressive, Shy, Independent",Yes,Yes,0,200,1
+Australian Shepherd,42,Tiny,No,Healthy,"Shy, Anxious, Aggressive",Yes,No,3,210,1
+Poodle,27,XL,Yes,Healthy,"Anxious, Calm, Aggressive",Yes,Yes,5,207,2
+Bulldog,7,Small,Yes,Minor Injury,"Calm, Aggressive, Friendly",Yes,Yes,4,254,3
+Australian Shepherd,45,Small,Yes,Healthy,"Independent, Calm, Friendly",Yes,Yes,1,268,2
+Golden Retriever,115,Medium,Yes,Healthy,"Anxious, Affectionate, Shy",No,Yes,1,413,1
+Husky,32,Tiny,Yes,Minor Injury,"Independent, Playful, Calm",No,Yes,2,456,2
+Golden Retriever,30,Medium,No,Healthy,"Anxious, Friendly, Shy",Yes,Yes,1,375,3
+Bulldog,2,XL,No,Minor Injury,"Independent, Anxious, Aggressive",Yes,No,5,96,2
+German Shepherd,93,Small,Yes,Healthy,"Playful, Shy, Independent",No,Yes,3,314,3
+German Shepherd,66,Tiny,Yes,Healthy,"Anxious, Affectionate, Aggressive",No,Yes,4,65,1
+Golden Retriever,27,XL,Yes,Healthy,"Anxious, Friendly, Aggressive",Yes,Yes,0,252,1
+Golden Retriever,17,XL,Yes,Healthy,"Aggressive, Independent, Friendly",Yes,No,1,207,0
+Beagle,64,Tiny,Yes,Healthy,"Independent, Playful, Friendly",Yes,Yes,4,182,3
+German Shepherd,112,XL,No,Healthy,"Shy, Friendly, Anxious",Yes,Yes,5,486,3
+Poodle,30,XL,No,Healthy,"Independent, Friendly, Playful",Yes,Yes,1,252,2
+Australian Shepherd,96,XL,No,Healthy,"Friendly, Calm, Shy",Yes,No,1,338,2
+Mixed,28,XL,No,Healthy,"Affectionate, Friendly, Shy",Yes,Yes,3,354,4
+Mixed,94,XL,Yes,Healthy,"Shy, Affectionate, Friendly",Yes,No,4,496,3
+Mixed,22,Small,No,Healthy,"Friendly, Playful, Independent",Yes,Yes,3,423,4
+German Shepherd,96,Large,No,Minor Injury,"Friendly, Anxious, Independent",Yes,Yes,3,261,3
+Husky,68,Tiny,No,Serious Injury,"Calm, Friendly, Shy",No,No,2,211,0
+Golden Retriever,17,Large,Yes,Healthy,"Calm, Shy, Friendly",Yes,Yes,3,425,4
+Mixed,17,Tiny,Yes,Healthy,"Anxious, Aggressive, Calm",Yes,No,1,393,1
+Husky,65,Small,No,Healthy,"Anxious, Aggressive, Calm",Yes,No,5,493,2
+Labrador,82,Medium,No,Healthy,"Independent, Friendly, Affectionate",No,Yes,1,289,1
+Husky,64,Medium,No,Healthy,"Friendly, Calm, Anxious",Yes,Yes,4,223,3
+Golden Retriever,36,Large,Yes,Minor Injury,"Aggressive, Friendly, Calm",Yes,No,2,246,0
+Beagle,52,XL,Yes,Healthy,"Shy, Playful, Aggressive",Yes,Yes,4,479,3
+Australian Shepherd,7,Medium,Yes,Minor Injury,"Friendly, Shy, Playful",Yes,Yes,4,414,4
+Bulldog,33,XL,Yes,Minor Injury,"Shy, Playful, Friendly",Yes,Yes,5,386,4
+German Shepherd,79,Tiny,Yes,Healthy,"Affectionate, Independent, Playful",Yes,No,2,478,2
+Mixed,58,Large,No,Healthy,"Shy, Calm, Playful",Yes,Yes,1,449,3
+Labrador,98,Medium,No,Healthy,"Shy, Aggressive, Affectionate",Yes,Yes,4,23,1
+Australian Shepherd,81,Tiny,Yes,Healthy,"Anxious, Shy, Friendly",Yes,No,2,416,2
+Mixed,105,Tiny,Yes,Healthy,"Friendly, Anxious, Aggressive",Yes,Yes,4,176,1
+Labrador,75,Tiny,No,Healthy,"Independent, Aggressive, Friendly",Yes,Yes,3,307,3
+Australian Shepherd,2,Large,No,Healthy,"Shy, Friendly, Affectionate",Yes,No,5,103,3
+Australian Shepherd,22,Tiny,No,Healthy,"Friendly, Aggressive, Playful",Yes,No,2,46,0
+Poodle,67,Medium,No,Healthy,"Affectionate, Anxious, Calm",Yes,Yes,0,401,3
+Labrador,108,Large,Yes,Healthy,"Anxious, Playful, Independent",Yes,Yes,3,496,3
+Australian Shepherd,21,Small,Yes,Healthy,"Playful, Independent, Friendly",Yes,Yes,4,462,4
+Husky,84,Medium,No,Healthy,"Affectionate, Playful, Anxious",Yes,Yes,5,166,3
+Labrador,57,Large,Yes,Healthy,"Affectionate, Independent, Friendly",Yes,Yes,4,406,4
+Poodle,1,Tiny,Yes,Healthy,"Playful, Aggressive, Friendly",Yes,Yes,1,399,3
+German Shepherd,38,Tiny,Yes,Healthy,"Friendly, Anxious, Playful",Yes,Yes,1,464,3
+Poodle,35,Tiny,Yes,Healthy,"Aggressive, Playful, Shy",Yes,No,0,300,0
+Golden Retriever,24,Medium,Yes,Serious Injury,"Calm, Affectionate, Shy",Yes,Yes,3,293,1
+Beagle,15,Tiny,Yes,Healthy,"Anxious, Shy, Independent",Yes,Yes,3,227,3
+Bulldog,27,XL,Yes,Healthy,"Anxious, Affectionate, Shy",Yes,Yes,3,449,4
+Labrador,89,Tiny,Yes,Serious Injury,"Friendly, Aggressive, Independent",No,No,0,112,0
+German Shepherd,53,Small,Yes,Healthy,"Affectionate, Aggressive, Shy",No,Yes,2,193,0
+Labrador,50,XL,Yes,Minor Injury,"Shy, Independent, Calm",Yes,Yes,3,218,3
+Bulldog,3,Small,Yes,Serious Injury,"Shy, Friendly, Calm",No,No,4,467,2
+Husky,44,Small,No,Minor Injury,"Aggressive, Calm, Playful",Yes,No,4,43,1
+Australian Shepherd,60,Large,Yes,Healthy,"Playful, Affectionate, Independent",Yes,Yes,1,406,3
+Mixed,20,Medium,No,Healthy,"Playful, Friendly, Shy",Yes,Yes,5,34,3
+Husky,25,Tiny,Yes,Minor Injury,"Affectionate, Friendly, Anxious",Yes,Yes,5,225,3
+Beagle,71,Small,Yes,Healthy,"Shy, Affectionate, Independent",Yes,Yes,0,401,3
+Bulldog,108,Tiny,No,Healthy,"Playful, Aggressive, Shy",Yes,Yes,3,247,1
+German Shepherd,9,Large,No,Healthy,"Aggressive, Independent, Calm",No,Yes,5,451,3
+German Shepherd,60,Tiny,Yes,Healthy,"Shy, Anxious, Aggressive",Yes,Yes,5,136,2
+Beagle,2,Small,No,Healthy,"Calm, Friendly, Anxious",No,Yes,2,83,2
+Husky,77,Large,Yes,Healthy,"Affectionate, Calm, Playful",Yes,Yes,0,91,2
+Bulldog,21,Small,No,Healthy,"Aggressive, Friendly, Shy",No,No,1,497,1
+Golden Retriever,64,Tiny,Yes,Serious Injury,"Playful, Aggressive, Friendly",Yes,No,1,385,0
+Poodle,111,Large,No,Healthy,"Playful, Independent, Anxious",Yes,Yes,5,51,2
+Beagle,11,Medium,Yes,Healthy,"Shy, Playful, Aggressive",Yes,Yes,4,236,3
+Australian Shepherd,33,XL,Yes,Serious Injury,"Affectionate, Anxious, Shy",No,Yes,3,121,0
+Beagle,41,Large,Yes,Minor Injury,"Shy, Aggressive, Independent",Yes,Yes,2,233,1
+Golden Retriever,51,Medium,Yes,Minor Injury,"Shy, Friendly, Calm",Yes,Yes,0,420,3
+Beagle,76,Tiny,Yes,Healthy,"Affectionate, Friendly, Playful",Yes,Yes,0,65,2
+Husky,32,Tiny,Yes,Healthy,"Independent, Shy, Friendly",Yes,Yes,5,105,3
+Bulldog,92,Small,No,Healthy,"Friendly, Affectionate, Independent",Yes,Yes,3,180,3
+Beagle,74,Medium,No,Healthy,"Shy, Aggressive, Independent",Yes,No,1,372,1
+Mixed,2,Large,No,Minor Injury,"Shy, Affectionate, Aggressive",Yes,Yes,0,308,3
+German Shepherd,105,Medium,Yes,Healthy,"Friendly, Playful, Independent",Yes,Yes,4,433,3
+Bulldog,33,XL,Yes,Healthy,"Calm, Aggressive, Affectionate",Yes,Yes,4,135,2
+Labrador,26,Medium,Yes,Healthy,"Aggressive, Anxious, Friendly",Yes,Yes,5,122,2
+Beagle,66,Medium,No,Healthy,"Affectionate, Aggressive, Calm",Yes,No,5,378,2
+Mixed,90,Small,No,Healthy,"Independent, Calm, Playful",Yes,Yes,5,141,3
+German Shepherd,114,XL,Yes,Minor Injury,"Friendly, Shy, Anxious",No,Yes,1,125,0
+German Shepherd,119,Small,Yes,Healthy,"Independent, Friendly, Shy",Yes,Yes,3,324,3
+Bulldog,104,XL,Yes,Healthy,"Independent, Shy, Calm",Yes,No,2,336,1
+Husky,67,Medium,Yes,Serious Injury,"Anxious, Aggressive, Shy",No,No,2,409,0
+German Shepherd,9,Tiny,No,Healthy,"Friendly, Aggressive, Calm",No,No,5,92,2
+German Shepherd,103,XL,No,Healthy,"Shy, Independent, Aggressive",No,Yes,0,389,0
+Husky,76,Tiny,No,Healthy,"Aggressive, Affectionate, Calm",Yes,Yes,1,367,2
+Bulldog,62,XL,Yes,Minor Injury,"Friendly, Shy, Playful",Yes,No,3,337,3
+Poodle,111,XL,No,Healthy,"Independent, Friendly, Anxious",Yes,Yes,2,402,2
+Beagle,7,Large,Yes,Minor Injury,"Anxious, Calm, Aggressive",Yes,Yes,2,103,2
+Beagle,80,Medium,No,Minor Injury,"Shy, Affectionate, Independent",No,Yes,3,409,3
+Golden Retriever,58,Large,No,Healthy,"Anxious, Independent, Aggressive",Yes,Yes,5,429,3
+Poodle,3,Small,Yes,Healthy,"Independent, Playful, Friendly",Yes,Yes,0,207,3
+Golden Retriever,106,Medium,No,Healthy,"Affectionate, Independent, Friendly",Yes,Yes,5,478,3
+German Shepherd,82,Large,No,Healthy,"Playful, Anxious, Calm",No,Yes,5,31,2
+Husky,87,Large,Yes,Healthy,"Playful, Shy, Calm",Yes,Yes,3,416,4
+Australian Shepherd,25,Tiny,No,Healthy,"Affectionate, Independent, Anxious",Yes,Yes,4,262,3
+Mixed,19,Large,Yes,Healthy,"Independent, Friendly, Aggressive",Yes,No,5,375,2
+Australian Shepherd,45,Tiny,No,Healthy,"Playful, Anxious, Calm",Yes,Yes,4,138,3
+Beagle,53,Large,Yes,Healthy,"Playful, Calm, Anxious",Yes,No,2,319,2
+Beagle,82,Tiny,No,Healthy,"Shy, Friendly, Affectionate",Yes,Yes,5,421,4
+Poodle,83,XL,Yes,Healthy,"Independent, Anxious, Affectionate",Yes,Yes,5,56,3
+Beagle,96,Tiny,No,Minor Injury,"Playful, Shy, Friendly",Yes,No,0,78,1
+Golden Retriever,3,Medium,Yes,Healthy,"Calm, Friendly, Shy",No,No,3,221,3
+Husky,115,XL,Yes,Healthy,"Shy, Playful, Affectionate",No,Yes,2,464,1
+Mixed,93,Medium,Yes,Minor Injury,"Independent, Shy, Affectionate",Yes,Yes,5,466,4
+Poodle,79,Small,Yes,Minor Injury,"Calm, Independent, Shy",Yes,Yes,0,410,3
+Poodle,76,Large,Yes,Healthy,"Affectionate, Anxious, Aggressive",Yes,Yes,0,369,2
+Husky,85,XL,Yes,Healthy,"Friendly, Playful, Anxious",Yes,Yes,1,464,3
+Poodle,24,Tiny,Yes,Healthy,"Aggressive, Shy, Independent",Yes,Yes,3,312,3
+Mixed,4,XL,No,Healthy,"Aggressive, Friendly, Anxious",Yes,No,3,383,3
+Labrador,20,XL,Yes,Minor Injury,"Friendly, Shy, Affectionate",Yes,Yes,3,171,3
+Bulldog,50,XL,No,Healthy,"Calm, Aggressive, Independent",No,Yes,0,454,1
+Beagle,96,Large,No,Healthy,"Aggressive, Affectionate, Playful",Yes,Yes,0,439,2
+Australian Shepherd,117,Tiny,Yes,Healthy,"Independent, Affectionate, Calm",Yes,Yes,1,247,1
+Beagle,66,Large,Yes,Healthy,"Affectionate, Friendly, Independent",Yes,No,1,439,2
+Australian Shepherd,6,Small,No,Healthy,"Anxious, Shy, Playful",No,No,1,262,2
+Beagle,115,Small,Yes,Serious Injury,"Affectionate, Independent, Playful",Yes,Yes,1,265,0
+Poodle,12,Tiny,Yes,Healthy,"Shy, Independent, Affectionate",Yes,No,2,256,1
+Beagle,18,Small,No,Healthy,"Anxious, Independent, Aggressive",Yes,Yes,4,418,3
+Mixed,97,Large,No,Healthy,"Anxious, Aggressive, Friendly",Yes,No,2,301,0
+Poodle,8,Tiny,No,Healthy,"Aggressive, Independent, Shy",Yes,Yes,3,259,3
+Poodle,94,Large,Yes,Serious Injury,"Anxious, Friendly, Independent",Yes,Yes,1,447,1
+Poodle,14,Tiny,No,Minor Injury,"Aggressive, Calm, Independent",Yes,Yes,5,21,2
+Husky,119,Medium,Yes,Serious Injury,"Playful, Aggressive, Affectionate",Yes,Yes,4,344,0
+Golden Retriever,38,Large,No,Healthy,"Calm, Friendly, Independent",No,Yes,4,60,2
+German Shepherd,62,Large,No,Healthy,"Anxious, Aggressive, Playful",Yes,Yes,5,335,3
+Husky,111,XL,No,Healthy,"Calm, Friendly, Playful",Yes,Yes,5,250,2
+Golden Retriever,89,XL,No,Minor Injury,"Friendly, Calm, Playful",Yes,Yes,3,149,3
+Beagle,103,Medium,Yes,Minor Injury,"Independent, Aggressive, Playful",Yes,No,5,164,0
+Golden Retriever,89,Medium,Yes,Healthy,"Aggressive, Shy, Independent",Yes,Yes,0,47,1
+Poodle,66,Medium,Yes,Healthy,"Playful, Friendly, Calm",Yes,Yes,2,248,2
+Golden Retriever,5,XL,No,Healthy,"Affectionate, Friendly, Playful",No,Yes,0,443,3
+Golden Retriever,76,Medium,Yes,Minor Injury,"Shy, Independent, Anxious",Yes,Yes,3,320,4
+Beagle,23,Small,No,Healthy,"Anxious, Shy, Aggressive",Yes,No,2,29,0
+Poodle,67,XL,Yes,Healthy,"Playful, Calm, Friendly",Yes,Yes,5,289,3
+Poodle,80,XL,Yes,Healthy,"Friendly, Playful, Affectionate",No,Yes,1,112,1
+Bulldog,10,Medium,Yes,Healthy,"Friendly, Affectionate, Calm",Yes,Yes,3,369,4
+Bulldog,105,Large,No,Healthy,"Affectionate, Independent, Friendly",Yes,Yes,0,152,1
+Husky,20,Small,No,Healthy,"Affectionate, Calm, Independent",Yes,Yes,2,479,3
+Golden Retriever,1,XL,Yes,Healthy,"Independent, Aggressive, Shy",Yes,Yes,0,83,2
+Mixed,118,Large,No,Healthy,"Shy, Independent, Affectionate",No,Yes,3,303,2
+Mixed,107,Small,No,Healthy,"Aggressive, Affectionate, Shy",Yes,Yes,4,194,1
+Bulldog,101,Medium,No,Healthy,"Anxious, Aggressive, Independent",No,Yes,3,184,0
+Mixed,49,Small,Yes,Healthy,"Friendly, Independent, Affectionate",Yes,No,0,139,1
+Australian Shepherd,44,Tiny,Yes,Minor Injury,"Shy, Calm, Friendly",Yes,Yes,3,386,4
+Golden Retriever,79,Medium,Yes,Healthy,"Calm, Shy, Playful",Yes,Yes,5,127,3
+Poodle,61,XL,No,Healthy,"Shy, Affectionate, Friendly",Yes,No,3,389,3
+Beagle,78,XL,No,Minor Injury,"Aggressive, Affectionate, Shy",Yes,Yes,1,476,2
+Mixed,37,Large,No,Healthy,"Playful, Aggressive, Friendly",Yes,No,3,301,2
+Beagle,29,XL,No,Healthy,"Aggressive, Calm, Shy",Yes,Yes,0,138,1
+Mixed,35,Tiny,Yes,Minor Injury,"Playful, Independent, Anxious",Yes,Yes,5,264,3
+Mixed,59,Medium,Yes,Healthy,"Aggressive, Anxious, Affectionate",Yes,No,4,180,1
+Golden Retriever,113,Medium,No,Healthy,"Aggressive, Calm, Shy",No,Yes,2,225,0
+Australian Shepherd,12,Medium,No,Minor Injury,"Friendly, Anxious, Playful",No,No,1,295,1
+Australian Shepherd,53,Large,No,Minor Injury,"Shy, Anxious, Affectionate",Yes,Yes,1,235,2
+Beagle,43,Large,No,Healthy,"Playful, Anxious, Affectionate",Yes,Yes,5,236,3
+Australian Shepherd,50,Small,Yes,Healthy,"Friendly, Calm, Affectionate",Yes,Yes,4,204,3
+Husky,39,Small,No,Minor Injury,"Independent, Aggressive, Anxious",No,Yes,2,197,0
+German Shepherd,23,XL,No,Minor Injury,"Aggressive, Playful, Affectionate",Yes,Yes,3,313,3
+Golden Retriever,84,XL,Yes,Healthy,"Playful, Friendly, Independent",Yes,Yes,5,320,4
+Poodle,52,Large,Yes,Healthy,"Calm, Playful, Aggressive",Yes,Yes,1,253,1
+German Shepherd,119,Tiny,No,Healthy,"Shy, Playful, Independent",Yes,No,1,360,1
+Australian Shepherd,1,Large,Yes,Healthy,"Aggressive, Shy, Calm",Yes,Yes,4,371,4
+German Shepherd,102,Large,Yes,Healthy,"Friendly, Independent, Anxious",Yes,Yes,4,105,2
+German Shepherd,47,Tiny,No,Serious Injury,"Aggressive, Friendly, Affectionate",No,Yes,1,212,0
+Australian Shepherd,55,Tiny,Yes,Healthy,"Independent, Affectionate, Aggressive",Yes,Yes,1,446,2
+Golden Retriever,74,XL,No,Healthy,"Playful, Affectionate, Calm",No,Yes,5,133,2
+Beagle,82,XL,Yes,Healthy,"Anxious, Calm, Aggressive",Yes,Yes,0,45,1
+Husky,8,Tiny,Yes,Healthy,"Affectionate, Calm, Aggressive",Yes,Yes,0,95,2
+Husky,91,Large,Yes,Healthy,"Independent, Playful, Shy",Yes,No,0,321,2
+Mixed,68,Medium,No,Healthy,"Friendly, Affectionate, Calm",Yes,Yes,0,20,2
+German Shepherd,19,Medium,No,Minor Injury,"Calm, Friendly, Independent",Yes,Yes,5,72,3
+Bulldog,48,Small,Yes,Healthy,"Playful, Aggressive, Calm",Yes,Yes,4,380,3
+Poodle,90,Large,Yes,Healthy,"Affectionate, Aggressive, Anxious",Yes,Yes,5,239,2
+German Shepherd,66,Tiny,No,Healthy,"Friendly, Shy, Anxious",Yes,No,1,211,1
+Bulldog,70,XL,Yes,Healthy,"Calm, Aggressive, Playful",Yes,Yes,0,180,1
+Poodle,41,Medium,Yes,Healthy,"Shy, Aggressive, Calm",Yes,No,0,195,0
+Beagle,13,Small,Yes,Healthy,"Affectionate, Aggressive, Independent",No,Yes,0,264,0
+Labrador,77,Medium,Yes,Healthy,"Affectionate, Calm, Independent",No,No,0,478,2
+German Shepherd,68,Small,Yes,Minor Injury,"Friendly, Calm, Playful",Yes,Yes,1,400,3
+Golden Retriever,102,Tiny,No,Healthy,"Aggressive, Anxious, Affectionate",Yes,No,5,151,0
+German Shepherd,102,Large,No,Healthy,"Calm, Playful, Affectionate",Yes,Yes,2,473,2
+Mixed,98,XL,Yes,Healthy,"Shy, Anxious, Calm",Yes,Yes,1,416,2
+Golden Retriever,105,Large,No,Healthy,"Anxious, Playful, Aggressive",No,Yes,2,384,0
+Golden Retriever,75,Large,Yes,Healthy,"Independent, Aggressive, Affectionate",Yes,Yes,0,363,2
+German Shepherd,54,Large,Yes,Healthy,"Anxious, Playful, Aggressive",Yes,No,0,232,0
+Mixed,15,Small,No,Healthy,"Playful, Friendly, Affectionate",No,Yes,0,95,1
+Husky,71,Large,No,Healthy,"Friendly, Calm, Anxious",Yes,No,4,422,3
+Labrador,60,Tiny,No,Healthy,"Calm, Anxious, Aggressive",Yes,Yes,4,492,3
+Mixed,33,Medium,No,Minor Injury,"Affectionate, Friendly, Calm",Yes,No,0,243,1
+German Shepherd,113,Small,Yes,Healthy,"Friendly, Anxious, Independent",Yes,Yes,2,447,2
+Labrador,102,Large,Yes,Healthy,"Affectionate, Aggressive, Independent",Yes,Yes,1,286,0
+Australian Shepherd,99,Medium,No,Healthy,"Anxious, Affectionate, Calm",Yes,Yes,5,481,3
+Bulldog,74,Tiny,Yes,Healthy,"Aggressive, Anxious, Playful",Yes,Yes,1,449,2
+Bulldog,9,Large,Yes,Healthy,"Affectionate, Shy, Aggressive",Yes,Yes,2,104,2
+German Shepherd,26,Large,No,Healthy,"Affectionate, Friendly, Shy",Yes,Yes,1,473,3
+Golden Retriever,28,Tiny,No,Healthy,"Anxious, Aggressive, Affectionate",Yes,Yes,4,240,2
+Husky,26,Medium,Yes,Healthy,"Affectionate, Friendly, Anxious",Yes,No,0,31,1
+Australian Shepherd,5,Small,Yes,Healthy,"Anxious, Friendly, Calm",Yes,Yes,1,323,4
+Golden Retriever,37,Large,Yes,Healthy,"Independent, Aggressive, Affectionate",Yes,Yes,3,247,2
+Bulldog,15,Large,No,Healthy,"Aggressive, Friendly, Independent",Yes,Yes,2,451,2
+Australian Shepherd,87,Small,No,Minor Injury,"Anxious, Aggressive, Independent",Yes,Yes,5,321,3
+Australian Shepherd,114,Small,Yes,Healthy,"Shy, Independent, Aggressive",Yes,Yes,3,398,2
+Australian Shepherd,43,Tiny,No,Serious Injury,"Affectionate, Calm, Shy",Yes,Yes,4,40,1
+Labrador,23,Medium,No,Healthy,"Calm, Shy, Friendly",Yes,Yes,2,355,3
+Golden Retriever,47,Tiny,Yes,Healthy,"Aggressive, Affectionate, Calm",No,No,4,143,1
+Labrador,15,XL,No,Minor Injury,"Shy, Independent, Playful",No,Yes,0,311,2
+Australian Shepherd,75,Tiny,Yes,Minor Injury,"Shy, Anxious, Friendly",Yes,Yes,2,290,2
+Poodle,68,Small,No,Healthy,"Friendly, Independent, Aggressive",Yes,Yes,4,160,2
+Poodle,86,Small,No,Healthy,"Calm, Playful, Shy",Yes,Yes,2,309,3
+Labrador,78,Small,No,Healthy,"Calm, Playful, Affectionate",Yes,No,4,471,3
+Beagle,112,Small,Yes,Minor Injury,"Anxious, Affectionate, Shy",Yes,Yes,4,71,2
+Golden Retriever,110,Large,No,Serious Injury,"Affectionate, Shy, Playful",Yes,Yes,2,176,0
+Poodle,111,Tiny,No,Healthy,"Calm, Aggressive, Playful",Yes,Yes,3,310,2
+German Shepherd,8,XL,Yes,Serious Injury,"Friendly, Aggressive, Anxious",No,Yes,1,439,0
+Mixed,30,Medium,No,Healthy,"Friendly, Affectionate, Anxious",No,Yes,1,21,1
+Australian Shepherd,49,Small,No,Healthy,"Anxious, Affectionate, Shy",No,Yes,4,151,2
+Husky,90,Medium,No,Minor Injury,"Calm, Friendly, Anxious",Yes,Yes,0,369,3
+Husky,75,Medium,No,Minor Injury,"Calm, Playful, Anxious",No,Yes,3,93,2
+Mixed,39,Small,No,Minor Injury,"Shy, Independent, Playful",No,Yes,4,178,2
+Husky,71,Medium,Yes,Healthy,"Shy, Aggressive, Calm",Yes,Yes,0,445,2
+Beagle,61,Small,Yes,Healthy,"Friendly, Independent, Anxious",Yes,Yes,1,459,3
+Golden Retriever,36,XL,Yes,Healthy,"Aggressive, Anxious, Calm",Yes,Yes,3,471,3
+Golden Retriever,118,Large,Yes,Healthy,"Anxious, Shy, Aggressive",Yes,Yes,5,404,2
+Husky,44,Large,No,Minor Injury,"Affectionate, Independent, Aggressive",No,Yes,4,381,2
+Australian Shepherd,47,Large,Yes,Healthy,"Calm, Aggressive, Independent",Yes,No,2,160,0
+Husky,119,XL,Yes,Healthy,"Affectionate, Aggressive, Playful",Yes,No,5,137,0
+Beagle,21,Tiny,No,Healthy,"Independent, Friendly, Calm",Yes,Yes,5,239,3
+Beagle,9,Medium,No,Healthy,"Affectionate, Playful, Shy",Yes,Yes,1,28,3
+Labrador,15,Medium,No,Healthy,"Affectionate, Playful, Anxious",Yes,Yes,1,491,3
+Labrador,42,Large,No,Healthy,"Affectionate, Calm, Aggressive",Yes,Yes,0,173,1
+German Shepherd,91,Small,No,Minor Injury,"Affectionate, Shy, Independent",Yes,No,4,87,2
+Golden Retriever,50,Large,Yes,Serious Injury,"Independent, Friendly, Playful",No,No,2,119,0
+Mixed,60,Tiny,Yes,Minor Injury,"Friendly, Affectionate, Independent",Yes,Yes,1,364,3
+Bulldog,18,XL,Yes,Serious Injury,"Aggressive, Anxious, Affectionate",Yes,Yes,2,183,0
+Husky,74,Small,Yes,Healthy,"Aggressive, Shy, Independent",No,Yes,0,458,1
+Poodle,114,XL,No,Healthy,"Playful, Aggressive, Affectionate",Yes,Yes,4,194,1
+Labrador,49,XL,No,Healthy,"Shy, Playful, Anxious",Yes,Yes,2,127,2
+German Shepherd,98,Medium,Yes,Healthy,"Anxious, Independent, Shy",Yes,No,0,138,0
+German Shepherd,21,Tiny,Yes,Healthy,"Shy, Calm, Affectionate",Yes,Yes,0,169,2
+Golden Retriever,48,Tiny,Yes,Healthy,"Aggressive, Affectionate, Friendly",Yes,Yes,4,162,2
+Poodle,35,Medium,Yes,Healthy,"Anxious, Playful, Aggressive",Yes,Yes,3,474,3
+Labrador,32,Medium,Yes,Healthy,"Calm, Affectionate, Friendly",Yes,Yes,2,157,2
+Husky,73,Small,Yes,Healthy,"Calm, Anxious, Shy",Yes,Yes,5,96,3
+Husky,57,Large,Yes,Healthy,"Affectionate, Anxious, Friendly",Yes,No,5,428,3
+Labrador,2,Tiny,No,Healthy,"Friendly, Anxious, Independent",Yes,Yes,2,282,3
+Bulldog,85,XL,No,Healthy,"Shy, Calm, Playful",Yes,Yes,1,342,3
+German Shepherd,42,XL,No,Minor Injury,"Aggressive, Friendly, Anxious",No,Yes,5,144,1
+Beagle,39,Medium,No,Healthy,"Independent, Calm, Shy",Yes,Yes,0,260,2
+Labrador,75,Small,Yes,Healthy,"Playful, Affectionate, Independent",Yes,Yes,3,321,4
+Australian Shepherd,19,Large,Yes,Minor Injury,"Shy, Friendly, Playful",No,No,3,237,2
+Australian Shepherd,102,Tiny,No,Serious Injury,"Anxious, Affectionate, Friendly",Yes,Yes,1,307,0
+Labrador,39,Tiny,No,Healthy,"Aggressive, Affectionate, Playful",Yes,Yes,4,55,2
+Mixed,104,Medium,Yes,Healthy,"Friendly, Anxious, Independent",Yes,No,4,372,2
+Beagle,36,Tiny,No,Healthy,"Aggressive, Playful, Shy",No,Yes,2,92,0
+Poodle,8,Medium,No,Healthy,"Aggressive, Independent, Anxious",Yes,Yes,0,398,3
+German Shepherd,70,Tiny,Yes,Minor Injury,"Calm, Affectionate, Friendly",No,No,0,215,1
+Mixed,13,Small,Yes,Serious Injury,"Friendly, Independent, Affectionate",No,Yes,0,335,0
+Golden Retriever,2,Tiny,No,Healthy,"Anxious, Calm, Playful",Yes,Yes,3,24,4
+Beagle,44,XL,Yes,Minor Injury,"Aggressive, Playful, Calm",No,Yes,2,179,0
+Beagle,21,Tiny,No,Healthy,"Shy, Friendly, Playful",No,Yes,5,219,2
+Golden Retriever,50,Tiny,Yes,Healthy,"Independent, Calm, Playful",Yes,Yes,2,319,3
+Australian Shepherd,58,Large,Yes,Healthy,"Independent, Anxious, Calm",Yes,Yes,2,361,3
+Beagle,70,Tiny,No,Healthy,"Aggressive, Playful, Friendly",Yes,No,1,234,0
+Australian Shepherd,44,XL,Yes,Healthy,"Playful, Affectionate, Aggressive",Yes,No,1,121,0
+Poodle,81,Small,Yes,Serious Injury,"Affectionate, Playful, Calm",Yes,Yes,2,373,1
+Poodle,87,Tiny,Yes,Healthy,"Anxious, Aggressive, Playful",Yes,Yes,5,135,2
+Labrador,8,Large,No,Healthy,"Anxious, Friendly, Affectionate",Yes,Yes,5,319,4
+Labrador,58,Large,No,Healthy,"Shy, Playful, Anxious",Yes,Yes,3,472,4
+Bulldog,77,XL,Yes,Healthy,"Friendly, Calm, Aggressive",Yes,Yes,4,306,3
+German Shepherd,47,Small,Yes,Minor Injury,"Playful, Shy, Calm",Yes,Yes,0,330,3
+Beagle,80,Medium,Yes,Healthy,"Friendly, Affectionate, Calm",Yes,No,1,465,2
+Husky,30,XL,Yes,Healthy,"Playful, Aggressive, Calm",Yes,Yes,0,74,1
+Bulldog,16,Tiny,No,Healthy,"Affectionate, Independent, Anxious",No,Yes,3,164,2
+Beagle,16,XL,No,Healthy,"Anxious, Calm, Shy",Yes,No,3,155,2
+Labrador,84,Large,Yes,Serious Injury,"Aggressive, Independent, Shy",Yes,Yes,2,163,0
+Australian Shepherd,30,Medium,No,Healthy,"Calm, Anxious, Playful",Yes,Yes,4,298,3
+Labrador,92,XL,Yes,Healthy,"Affectionate, Shy, Independent",Yes,No,2,123,1
+Labrador,118,Tiny,Yes,Healthy,"Calm, Shy, Affectionate",Yes,Yes,4,487,3
+Husky,104,Small,Yes,Healthy,"Calm, Anxious, Affectionate",No,Yes,3,340,2
+German Shepherd,30,Large,Yes,Healthy,"Aggressive, Calm, Affectionate",Yes,No,4,103,1
+German Shepherd,70,XL,No,Minor Injury,"Shy, Playful, Affectionate",No,Yes,5,485,3
+Bulldog,72,Small,No,Healthy,"Independent, Friendly, Aggressive",No,Yes,0,291,0
+Labrador,76,XL,Yes,Minor Injury,"Friendly, Anxious, Shy",Yes,Yes,5,245,3
+Mixed,14,Small,No,Healthy,"Shy, Anxious, Aggressive",Yes,Yes,3,170,2
+German Shepherd,114,XL,No,Minor Injury,"Independent, Aggressive, Friendly",Yes,Yes,4,85,1
+Beagle,105,XL,No,Minor Injury,"Affectionate, Aggressive, Calm",Yes,Yes,4,277,1
+Labrador,91,Small,Yes,Minor Injury,"Affectionate, Anxious, Shy",Yes,Yes,0,476,3
+Golden Retriever,65,XL,Yes,Serious Injury,"Independent, Calm, Friendly",Yes,No,2,342,0
+Mixed,52,Large,No,Healthy,"Playful, Aggressive, Friendly",Yes,Yes,5,426,3
+Australian Shepherd,26,Large,No,Healthy,"Affectionate, Calm, Anxious",Yes,Yes,3,485,4
+Bulldog,55,Medium,Yes,Healthy,"Shy, Calm, Friendly",Yes,Yes,5,438,4
+Mixed,22,Small,Yes,Healthy,"Independent, Playful, Friendly",Yes,Yes,2,162,2
+Beagle,86,Medium,No,Minor Injury,"Friendly, Shy, Independent",Yes,Yes,3,120,3
+Husky,116,Medium,Yes,Minor Injury,"Friendly, Anxious, Calm",Yes,Yes,1,31,1
+Golden Retriever,111,XL,Yes,Healthy,"Calm, Anxious, Aggressive",Yes,Yes,0,61,0
+Bulldog,38,Large,Yes,Healthy,"Affectionate, Independent, Aggressive",Yes,Yes,1,448,2
+Bulldog,35,Large,No,Healthy,"Affectionate, Anxious, Friendly",Yes,Yes,5,235,3
+German Shepherd,106,Medium,Yes,Healthy,"Independent, Calm, Shy",Yes,Yes,5,481,3
+Golden Retriever,6,XL,No,Healthy,"Playful, Friendly, Affectionate",No,Yes,2,355,3
+Beagle,7,XL,No,Serious Injury,"Aggressive, Affectionate, Playful",Yes,Yes,3,33,1
+Poodle,73,Medium,No,Healthy,"Friendly, Playful, Shy",Yes,Yes,4,182,3
+Labrador,66,XL,No,Healthy,"Aggressive, Playful, Affectionate",Yes,Yes,2,149,1
+Husky,35,Tiny,No,Healthy,"Playful, Shy, Calm",No,Yes,1,225,1
+German Shepherd,20,Tiny,Yes,Healthy,"Affectionate, Independent, Playful",Yes,No,1,275,1
+Bulldog,10,Small,Yes,Healthy,"Affectionate, Shy, Friendly",Yes,Yes,0,469,4
+Bulldog,25,XL,No,Healthy,"Playful, Shy, Aggressive",Yes,Yes,4,329,3
+Bulldog,33,XL,No,Serious Injury,"Affectionate, Aggressive, Anxious",Yes,Yes,3,114,0
+Mixed,14,Large,No,Minor Injury,"Friendly, Aggressive, Affectionate",No,No,0,129,0
+Golden Retriever,80,Small,Yes,Minor Injury,"Anxious, Aggressive, Affectionate",No,Yes,5,257,1
+Poodle,52,Large,Yes,Healthy,"Calm, Affectionate, Independent",Yes,Yes,2,444,3
+Poodle,6,Small,No,Healthy,"Shy, Calm, Playful",Yes,Yes,0,160,3
+Beagle,117,Large,No,Healthy,"Aggressive, Friendly, Playful",Yes,Yes,1,411,1
+Australian Shepherd,21,Large,No,Minor Injury,"Aggressive, Affectionate, Playful",Yes,Yes,1,471,2
+German Shepherd,25,Medium,No,Healthy,"Shy, Playful, Friendly",Yes,Yes,3,192,3
+Australian Shepherd,60,Small,No,Minor Injury,"Calm, Shy, Playful",Yes,Yes,3,307,4
+Poodle,96,XL,No,Healthy,"Playful, Independent, Calm",Yes,Yes,3,160,3
+Bulldog,31,Tiny,Yes,Healthy,"Playful, Anxious, Independent",No,Yes,5,39,2
+Poodle,18,Large,No,Healthy,"Playful, Affectionate, Aggressive",Yes,No,4,335,2
+Beagle,63,Small,Yes,Healthy,"Anxious, Playful, Affectionate",Yes,Yes,5,179,3
+Poodle,93,Small,Yes,Minor Injury,"Calm, Independent, Shy",Yes,Yes,2,273,2
+Beagle,2,Medium,Yes,Healthy,"Anxious, Aggressive, Playful",Yes,Yes,3,170,3
+Beagle,83,Small,Yes,Healthy,"Independent, Playful, Aggressive",Yes,Yes,2,24,1
+Mixed,83,XL,No,Healthy,"Aggressive, Affectionate, Calm",Yes,Yes,1,285,1
+Poodle,89,XL,Yes,Healthy,"Shy, Friendly, Calm",No,Yes,1,401,2
+German Shepherd,11,Medium,Yes,Healthy,"Independent, Anxious, Affectionate",Yes,Yes,1,272,3
+Australian Shepherd,31,Large,Yes,Healthy,"Playful, Shy, Affectionate",Yes,No,0,490,2
+Mixed,83,Small,No,Minor Injury,"Shy, Playful, Affectionate",Yes,Yes,0,118,2
+German Shepherd,21,Large,Yes,Healthy,"Aggressive, Independent, Friendly",No,Yes,0,175,0
+Beagle,62,Small,No,Healthy,"Playful, Friendly, Aggressive",Yes,Yes,5,390,3
+Labrador,7,Small,No,Healthy,"Aggressive, Friendly, Playful",No,Yes,3,116,2
+Bulldog,4,Small,No,Healthy,"Calm, Aggressive, Independent",Yes,No,3,122,2
+Poodle,40,Small,Yes,Healthy,"Calm, Shy, Anxious",Yes,Yes,0,120,2
+Bulldog,103,Small,Yes,Healthy,"Affectionate, Calm, Shy",Yes,Yes,3,327,3
+German Shepherd,93,XL,Yes,Healthy,"Affectionate, Independent, Shy",Yes,No,3,439,3
+Poodle,38,Medium,No,Healthy,"Affectionate, Aggressive, Anxious",Yes,Yes,1,82,1
+German Shepherd,101,Large,Yes,Minor Injury,"Anxious, Affectionate, Playful",Yes,No,3,210,1
+Husky,62,Small,Yes,Healthy,"Affectionate, Calm, Aggressive",Yes,Yes,4,26,2
+Australian Shepherd,27,Tiny,No,Healthy,"Affectionate, Shy, Anxious",No,Yes,3,489,3
+Husky,14,Medium,No,Healthy,"Anxious, Aggressive, Independent",Yes,Yes,4,105,2
+Poodle,5,Large,Yes,Serious Injury,"Shy, Aggressive, Friendly",Yes,No,5,202,0
+Mixed,2,Medium,No,Healthy,"Independent, Affectionate, Playful",Yes,No,5,238,3
+Bulldog,21,Small,No,Healthy,"Independent, Affectionate, Anxious",Yes,Yes,5,249,3
+German Shepherd,79,Medium,No,Serious Injury,"Calm, Affectionate, Shy",Yes,No,4,157,0
+German Shepherd,87,Tiny,Yes,Minor Injury,"Anxious, Aggressive, Independent",Yes,No,1,395,1
